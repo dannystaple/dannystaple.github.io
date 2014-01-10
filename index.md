@@ -1,46 +1,28 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Danny Staple
+tagline: About Me
 ---
 {% include JB/setup %}
+I am proudly a Computer Geek - running the company <a href="http://odmsolutions.co.uk">ODM Solutions Ltd</a> where I specialise in  automation and developer tools. I like Python and Linux, but use whatever is needed.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I am shamelessly into robots, and run robotics shop at <a href="http://orionrobots.co.uk">Orion Robots</a>. I tinker with the Arduino, electronics, Raspberry Pi and many things I can get my hands on - I was the kind of kid that took everything apart.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+I am a father of two great kids.
 
-## Update Author Attributes
+I love SciFi, and some Fantasy. As films, books and plays - I read a lot.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+I play computer games, build stuff with Lego, grow plants occasionally and muse about all things.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+I am a bit of a foodie - although I'd like to be a lighter one!
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+I have some interest in ethics, philosophy and politics - but try not to get too hung up about them as most people have already made up their minds and cannot change. My closest political description is I am passionate skeptic - I like things that are evidence based, and generally let people be. Believe what you want - just don't make it my problem.
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+This site collects together musings I have once written on other sites, and will collect those I write that are related to neither robots or computer programming.
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
 
