@@ -108,7 +108,7 @@ I then like to use a plant food to top up and enhance the nutrients. It is again
 
 Plants can be watered with anything you have around, but a proper watering can with a spout makes sure the water can be delivered under foliage to a plant, where it is needed. A watering can may also be used to mix up the plant food, and give all the plants a good feed and watering together. Be sure to clean it between feedings though!
 
-## Stakes to hold plants up<
+## Stakes to hold plants up
 
 I use bamboo for the tomato canes, and refuse to introduce plastic or metal canes which may leach unwanted stuff into the soil.
 
@@ -145,24 +145,17 @@ When growing anything, you are eventually going to encounter pests. Trust me - t
 
 Read on to find out what I did, and ways to do so that avoid spoiling food plants and keep them edible.
 
-<a class="img" href="http://www.squidoo.com/plantpestcontrol" onclick="evTrack('Lens', 'FeaturedLenses', 'FeaturedLenses')">
-  <img src="http://i1.squidoocdn.com/resize_smart/squidoo_images/120/120/lens2144065_1220597626SundewBehindChives.jpg" alt="organic food plant pest control">
+<a class="img" href="http://www.squidoo.com/plantpestcontrol">
+  <img src="http://i1.squidoocdn.com/resize_smart/squidoo_images/120/120/lens2144065_1220597626SundewBehindChives.jpg" alt="organic food plant pest control" />
 </a>
-        
-<div class="bd">
-  <h4 class="margin_bot_5">
-    <a href="http://www.squidoo.com/plantpestcontrol" onclick="evTrack('Lens', 'FeaturedLenses', 'FeaturedLenses')">Organic Food Plant Pest and Parasite control</a>
-  </h4>
-  <p class="nomargin">
-    In this page are descriptions of common pests, parasites, infections, insects, fungi and diseases seen in food plants, along with organic and frugal ways to...</p>
-  <p></p>
-</div>
+
+<a href="http://www.squidoo.com/plantpestcontrol">Organic Food Plant Pest and Parasite control</a>
 
 <h2>My pest control - a Sundew behind some chives.</h2>
-<img src="images/big_sundew.jpg">
+<img src="images/big_sundew.jpg" />
 
 <h1>Tomato plants as gifts</h1>
-<img src="images/seedlings_illustration.png">
+<img src="images/seedlings_illustration.png" />
 Tomato seedlings, once potted and grown out a little, make superb gifts. People tend to feel something you have grown and cared for a lot more meaningful than some consumer plastic rubbish bought in a rush in a supermarket. They have the added bonus of being quite a frugal gift too.
 
 <img src="http://static.squidoo.com/resize/squidoo_images/132/draft_lens2061916module35372372photo_5_1243065178SeedlingGift.jpg" style="float: left; margin-right:10px" alt="Tomato Seedlings" />This also gives the opportunity of introducing yet another person to the idea of planting and growing their own food, although when given, plenty of advice should be on hand and given too.
@@ -180,17 +173,16 @@ A few weeks on and the receiver will still be thinking about plants, and they wi
 I've a special place in my stomach for home grown tomatoes. I love the tiny ones and the really big fat ones too. I love growing my own when I've space for them too!
 
 <a class="img" href="http://www.squidoo.com/plantpestcontrol" onclick="evTrack('Lens', 'FeaturedLenses', 'FeaturedLenses')">
-  <img src="http://i1.squidoocdn.com/resize_smart/squidoo_images/120/120/lens2144065_1220597626SundewBehindChives.jpg" alt="organic food plant pest control">
+  <img src="http://i1.squidoocdn.com/resize_smart/squidoo_images/120/120/lens2144065_1220597626SundewBehindChives.jpg" alt="organic food plant pest control"/>
 </a>
   
-<div class="bd">
   <h4 class="margin_bot_5">
-    <a href="http://www.squidoo.com/plantpestcontrol"">Organic Food Plant Pest and Parasite control</a>
+    <a href="http://www.squidoo.com/plantpestcontrol">Organic Food Plant Pest and Parasite control</a>
   </h4>
   <p class="nomargin">
     In this page are descriptions of common pests, parasites, infections, insects, fungi and diseases seen in food plants, along with organic and frugal ways to...</p>
-  <p></p>
-</div>
+
+
 
 <h1>Flowering, Fruit and the tasty results</h1>
 
@@ -201,7 +193,8 @@ Given a short while, the flowers will either die, or the petals will drop, and a
 If you are lucky, the plant will keep flowering and producing fruit for a while, although as things get colder it will slow down.
 
 <p style="align: center; text-align: center; background-color: lightgray; border: 2px dashed black; padding: 5px 5px 5px 5px">
-<img src="http://static.squidoo.com/resize/squidoo_images/480/draft_lens2061916module35372372photo_2_1243065176Cherry_Tomatoes_Harvest.jpg" alt="1 weeks cherry tomato harvest" /><br /><b>Tasty Ripe Cherry Tomatoes</b></p>
+<img src="http://static.squidoo.com/resize/squidoo_images/480/draft_lens2061916module35372372photo_2_1243065176Cherry_Tomatoes_Harvest.jpg" alt="1 weeks cherry tomato harvest" />
+<b>Tasty Ripe Cherry Tomatoes</b></p>
 
 <h1>State of my plants: October 2008</h1>
 <h2>How are my plants doing a little later in the year?</h2>
@@ -221,7 +214,7 @@ I have also been having a battle with fungus gnats which have gotten into my pla
 
 <div class="module">
           
-<div class="module_description"><p align="center"><img src="http://static.squidoo.com/resize/squidoo_images/400/draft_lens2061916module35372372photo_1_1243065175TomatoesDivider.jpg" style="margin-bottom: 5px" alt="Close up of flowering tomato plants"></p><br>
+<div class="module_description"><p align="center"><img src="http://static.squidoo.com/resize/squidoo_images/400/draft_lens2061916module35372372photo_1_1243065175TomatoesDivider.jpg" style="margin-bottom: 5px" alt="Close up of flowering tomato plants" /></p><br>
 While surfing around, I have found a number of useful tidbits of info on growing all sorts of stuff, and about tomatoes. While collecting them in my browser bookmarks is a bit helpful, popping them on here means others can benefit and I can read up when online but away from that PC.<br>
 <p style="float: left; margin-right: 10px"><a rel="nofollow" href="http://www.FreeMesa.org/?a=21&amp;p=146&amp;b=2" target="_blank"><img src="http://www.freemesa.org/img.php?b=2&amp;p=146" border="0" alt="FreeMesa.org - Free Stuff from the Community, To the Community. All for free."></a></p></div>
 <dl>
