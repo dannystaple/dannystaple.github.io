@@ -9,7 +9,7 @@ description: Things I like to grow and eat
 
 ## Growing stuff, mostly edible stuff, mostly tomatoes
 
-<img src="/assets/images/small_green_tomatoes.jpg" />
+<img src="/assets/images/small_green_tomatoes.jpg" style="float: left; margin-right: 4px;"/>
 
 There is little as satisfying as eating food you have grown yourself. I will admit, my wife usually cooks with it, but I have all the pleasure of growing it. Sure, a couple of non-food plants make the list (like the carnivorous ones that keep away pests), but it is nearly all edible. Tomatoes are pretty easy to grow, although they will need a bit of care. No supermarket tomato compares with one straight off the vine which has never been chilled or stored, and is still naturally warm.
 
