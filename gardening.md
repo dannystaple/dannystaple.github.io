@@ -5,36 +5,34 @@ description: Things I like to grow and eat
 ---
 {% include JB/setup %}
 
-<h1>Growing tomatoes (and other stuff)</h1>
+# Growing tomatoes (and other stuff)
 
-<h2>Growing stuff, mostly edible stuff, mostly tomatoes</h2>
+## Growing stuff, mostly edible stuff, mostly tomatoes
 
 <img src="images/small_green_tomatoes.jpg" />
 
 There is little as satisfying as eating food you have grown yourself. I will admit, my wife usually cooks with it, but I have all the pleasure of growing it. Sure, a couple of non-food plants make the list (like the carnivorous ones that keep away pests), but it is nearly all edible. Tomatoes are pretty easy to grow, although they will need a bit of care. No supermarket tomato compares with one straight off the vine which has never been chilled or stored, and is still naturally warm.
 
-<h1>Contents</h1>
+# Contents
 
 <img src="images/border_growing_tomatoes.jpg" />
 
-<h1>Me and My Plants</h1>
+# Me and My Plants
   
 I grow stuff and build stuff. Generally I only want to grow stuff I can eat, and may "hack my plants".
 
 I built the boxes I used to grow indoor tomatoes from unwanted furniture. The soil mix was based on research and a little trial and error.
 
-My Daughter, my wife and I love eating tomatoes. Home grown ones are even sweeter!
+My Son, daughter, wife and I love eating tomatoes. Home grown ones are even sweeter!
 
-<h1>Grow your own food and eat it!</h1>
+# Grow your own food and eat it!
 
 It is really as simple as this. Find a good spot like a window sill, shed or garden (you lucky, lucky thing). Take some tomato seeds, squirt them into a dish, add soil and water, or take some onions or potatoes gone to seed. Then get a nice big growbag, and plant them. Sure, you could go all out and take a lot of care, or you can simply water them and watch them grow. Eat what you grow, and it is done!
-<!--
-<h2>Get started growing your own food with this kit!</h2>
-Amazon Aerogarden cherry tomato see kit -->
+
 You do not need to be an expert to grow food. in fact, although it requires a little commitment of time and willingness to learn on the job, it is really simple to get started. This kit has everything you will need for your first food plants, and can be done in a window sill. This kit gets the seeds going quickly with no dirt or mess. It is 100% natural and organic.
 
-<h1>Where did it start?</h1>
-<h2>When did I start growing stuff at all?</h2>
+# Where did it start?
+## When did I start growing stuff at all?
 
 <img src="images/border_left_tomatoes.jpg" />
 
@@ -46,8 +44,7 @@ I hope by sharing my experiences, others can have a go at growing their own food
 
 I will continue to place photos of my plants, the tomatoes and other bounties I get on this site. reading below you will find out about other tips, contraptions and things I have done. I have created HOWTOs for building your own for some of them and will expand with more.
 
-<!-- Photo gallery of plants
-<h1>My Plants</h1>
+# My Plants
 
 A close up of my Tomatoes flowering. Those flowers will become fruits. I am always delighted to see them.
 
@@ -66,11 +63,11 @@ A bamboo cane across the top added extra support, I now use willow trellises for
 The sundew is a good pest control as flying things stick to its leaves and then get digested. The foreground has chives. Chives are very easy to grow and they also discourage pests. They go well in plenty of dishes.
 
 More fruiting cherry tomato close ups.
--->
 
-<h1>Using the DIY propagator for tomatoes</h1>
-<h2>I built a propagator, and used it for the tomatoes.</h2>
+# Using the DIY propagator for tomatoes
+## I built a propagator, and used it for the tomatoes.
 <img src="images/propagator_small.jpg" />
+
 When I first started growing tomatoes, and the second time around, I figured that if they like a greenhouse, then I should build some sort of propagator to get the seeds on the go.
 
 So I built one, and it is documented at <a href="http://www.squidoo.com/howtomakeseedpropagator">HOWTO:Make a simple seed propagator</a>.
@@ -79,8 +76,8 @@ It was successful, in fact perhaps a little too successful since I used (each ti
 
 I am finding out that Tomato seeds are vigorous, so not too many should be put into a propagator. considering it is a 6" dish, planting them around 1" apart should give more reasonable numbers than I ended up with last year. They have nearly 100% growth from seeds taken from supermarket fruit. However it is not all bad, they made for plenty of great gifts. Some got a bit leggy before they could be planted out, but most were fine.
 
-<h1>Materials I usually use</h1>
-<h2>Trying to keep it real and organic</h2>
+# Materials I usually use
+## Trying to keep it real and organic
 
 I grow all my plants indoors as I do not yet have a garden. Since I would like to eat them, and they are in very small and limited eco-systems, I have to think very carefully about what I buy and use for them.
 
@@ -88,13 +85,13 @@ I use a screwdriver from a Christmas cracker as a dibber since it was little use
 
 For tying heavier tomato plants to stakes, I use either hemp rope, or simple garden string.
 
-<h2>Organic compost or potting compound</h2>
+## Organic compost or potting compound
 
 Since I will eat them, I only use organic compost for potting. This is normally also peat-free since peat is a natural resource which is declining currently. I look for compost with some fibre ballast to keep water in, and enough bulk for good drainage - this together means roots are neither dry nor saturated, and nutrients are not merely washed out after a few waterings. I find that B & Q in the UK stock a few general purpose composts, as well as bulb fibre and other things.
 
 My current compost is the Miracle-gro organic peat free general purpose compost (which is not yet on Amazon). I am yet to try the compost disks currently stocked on Amazon. If you look around you can get organic growbags, which are handy for the more mature veg.
 
-<h2>Using your own soil</h2>
+## Using your own soil
 
 You can also use your own garden or local soil, but you need to really think about this. It may not be the right mix or consistency, and may be too acidic or alkali for your plants.
 Also it will probably not have the right kind of water drainage and holding properties for a pot. You can remedy drainage issues with perlite or better still vermiculite, which holds water and stops nutrients being simply washed out.
@@ -103,15 +100,15 @@ Also it is likely the soil will have pests, bacteria and fungi, so you will need
 
 Vermiculite can be used to aid drainage and water holding properties of soil or compost.
 
-<h2>Plant food</h2>
+## Plant food
 
 I then like to use a plant food to top up and enhance the nutrients. It is again important, perhaps more so, that this is organic. I found that B & Q stock a few types of organic tomato food. This stuff is potent, and needs to be watered down, to the extend of one cap full going into a few litres. The great thing about this stuff is it can be used on all my other plants to, so I just mix it up in my watering can.
 
-<h2>Dont forget a watering can</h2>
+## Dont forget a watering can
 
 Plants can be watered with anything you have around, but a proper watering can with a spout makes sure the water can be delivered under foliage to a plant, where it is needed. A watering can may also be used to mix up the plant food, and give all the plants a good feed and watering together. Be sure to clean it between feedings though!
 
-<h2>Stakes to hold plants up</h2>
+## Stakes to hold plants up<
 
 I use bamboo for the tomato canes, and refuse to introduce plastic or metal canes which may leach unwanted stuff into the soil.
 
@@ -119,23 +116,23 @@ I use them with some twine to create a small truss for tomatoes to grow upon, as
 
 For smaller plants and seedlings, wooden barbecue skewers are just the job.
 
-<h3>Bamboo Skewers</h3>
+### Bamboo Skewers
 
 Some simple untreated wooden barbecue skewers are good for aerating soil when poked through, scraping off pests, and also as supports for very young tomato plants. Very handy indeed.
 
-<h3>Expandable Bamboo Trellis</h3>
+### Expandable Bamboo Trellis
 
 As you start to get larger or many plants, a trellis like this will really help, although this may also mean you need to start finding a larger space for them. Indoor plants this size can become a little unmanageable.
 
-<h2>Plant pots</h2>
+## Plant pots
 I mostly use plastic pots, but I have recently come across fibre and peat pots. Coir fibre has its own nutrients, and also retains a bit of moisture. When a plant has outgrown it, roots will come straight through, which has two advantages, firstly, you will know pretty soon that it is ready for planting out into a larger pot, and secondly you do not have to remove the pot to plant out.
 
 I almost always use terracotta coloured pots as I find them aesthetically pleasing.
 
 I also like the tiny little peat pots - These have the advantage of being able to be planted straight out into larger pots, and eventually growbags, without having to pull them out of their previous pot.
 
-<h1>Make your own seed starting pots</h1>
-<h2>It is surprisingly easy</h2>
+# Make your own seed starting pots
+## It is surprisingly easy
 
 There is more than one way to make your own plant pots for starting seeds, with similar benefits to using the peat or coir pots, without the expense.
 
@@ -143,7 +140,7 @@ The first is using newspaper, you can actually make it damp, and mould it into a
 
 The other I got from another great lens - <a href="http://www.squidoo.com/reusepaperroll#module10993399">How to Reuse Toilet-paper Rolls</a>, which is to use a toilet paper roll as a seed starting pot. You simply cut the roll in half, fill with soil, and place them close together in a tray. Try this video for some ideas <a href="http://www.dailymotion.com/video/xhkzhl_how-to-start-seeds-using-toilet-paper-rolls_lifestyle">How to start seeds using toilet paper rolls</a>
 
-<h1>Pest Control for your food plants</h1>
+# Pest Control for your food plants
 When growing anything, you are eventually going to encounter pests. Trust me - they've a way of getting to your plants, and learning methods of pest control is essential. It is so essential that it gets a page of its own. For any food growers, ignoring things that crawl on your plants may lead to a lot of disappointment.
 
 Read on to find out what I did, and ways to do so that avoid spoiling food plants and keep them edible.
@@ -188,7 +185,7 @@ I've a special place in my stomach for home grown tomatoes. I love the tiny ones
   
 <div class="bd">
   <h4 class="margin_bot_5">
-    <a href="http://www.squidoo.com/plantpestcontrol" onclick="evTrack('Lens', 'FeaturedLenses', 'FeaturedLenses')">Organic Food Plant Pest and Parasite control</a>
+    <a href="http://www.squidoo.com/plantpestcontrol"">Organic Food Plant Pest and Parasite control</a>
   </h4>
   <p class="nomargin">
     In this page are descriptions of common pests, parasites, infections, insects, fungi and diseases seen in food plants, along with organic and frugal ways to...</p>
