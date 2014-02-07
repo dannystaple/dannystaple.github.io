@@ -122,8 +122,10 @@ I used Ubuntu Linux for this. I unpacked the file downloaded from Gigabyte, and 
 
 With this boot disk, I was able to mount it as a loopback vfat device, and copy the files from the gigabyte archive into it.
 
-```mkdir /mnt/bootdisk
-mount /home/danny/freedos.img /mnt/bootdisk -t msdos -o loop```
+```
+mkdir /mnt/bootdisk
+mount /home/danny/freedos.img /mnt/bootdisk -t msdos -o loop
+```
 
 You will need to run those commands as root, or by prefixing them with sudo as is the convention in Ubuntu.
 
