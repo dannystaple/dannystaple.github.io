@@ -8,7 +8,6 @@ layout: post
 
 It can take a while waiting for a Gnome 3 desktop - in my case Fedora 19, to start up, and run some of your favourite apps. We usually have 2 or 3 go to apps that define our working day. Here is how I sped up mine, and kept it secure.
 
-{% excerpt_separator %}
 So I've done an update, and it required a restart. I like to let it do the restart, walk away for a cup of tea, and have the machin ready for me to work again when I return - not return, log in, and then find I have to wait again. Impatient sort of fella I know. Otherwise, there is wait for it to start, grind, grind, grind, start my apps, grind, grind grind.. And finally I can work. By which time the air of relaxation from the cuppa is gone, along with the enthusiasm, or complete recall of what I was about to do.
 
 All of this, and I want it kind of secure too. The rough plan is to set the machine up to auto login, and start up my favourite apps, then issue a lock screen too. So the desktop is locked (requiring a password), but with everything running. There is probably an insecure window of opportunity there - but I don't distrust coworkers that much, and for a home machine, my kids aren't yet that quick.
