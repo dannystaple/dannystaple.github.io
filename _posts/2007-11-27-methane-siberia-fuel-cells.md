@@ -1,8 +1,8 @@
 ---
-layout: post
 description: Fuel Cells, Methane and Siberia
 tags: [earth,power,technology,fuel cell]
 title: Using Fuel Cells On The Methane In Siberia
+layout: post
 ---
 {% include JB/setup %}
 
