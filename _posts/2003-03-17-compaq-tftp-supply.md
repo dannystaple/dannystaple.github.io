@@ -28,7 +28,7 @@ The original article had a number of suppliers, but most have since either disap
 
 Suppliers that may be able to help:
 
-
+* <a href="http://www.trademoon.com">Trademoon Product Catalogue - Compaq Supply</a>
 (insert here)
 
 # Understanding the Compaq Power Connection
