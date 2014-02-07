@@ -18,8 +18,8 @@ The key to this is using gnome-session-properties. Being Gnome - it doesn't have
 
 In this dialog you'll need to add a few things.
 
-* First - secure it - click add, and set the name to something like "Lock on Start", and the command needs to be `gnome-screensaver-command --lock`. Comment as you wish. Click add.
-* Next - add your apps. you may need to use a terminal, or menu editor to find the exact invokations tied to those icons. If firefox is part of your usual setup, `which firefox` on a terminal will give you the right invokation. Add each as a command in this list.
+* First - secure it - click add, and set the name to something like "Lock on Start", and the command needs to be ```gnome-screensaver-command --lock```. Comment as you wish. Click add.
+* Next - add your apps. you may need to use a terminal, or menu editor to find the exact invokations tied to those icons. If firefox is part of your usual setup, ```which firefox``` on a terminal will give you the right invokation. Add each as a command in this list.
 * Close this dialog.
 
 Now start the normal settings - click on your username, then settings, then users. In users - unlock it, and set to auto-login your user. 
@@ -33,7 +33,6 @@ So when you start up - it will automatically log you in, then (and in slightly u
 
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-post" data-href="https://plus.google.com/110194536319300332772/posts/ByvRcdVhaaQ"></div>
-{%- endfilter %}
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
