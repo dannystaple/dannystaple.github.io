@@ -4,8 +4,11 @@ description: Virgin unveils spaceship designs
 tags: [scaled_composites, travel, x-prize, ansari, rutan, virgin, spaceshiptwo, spaceshipone,
   space]
 title: Virgin unveils spaceship designs
+layout: post
 ---
- <div style="float:left; margin-top: 5px; margin-right: 10px; text-align: center"><a href="http://affiliates.allposters.com/link/redirect.asp?item=3577637&amp;AID=1242509632&amp;PSTID=1&amp;LTID=2&amp;lang=1" target="_blank" title="The White Knight Aircraft with Spaceshipone Underneath on a Runway"><img src="http://imagecache2.allposters.com/images/NGSPOD/132982-FB.jpg" alt="The White Knight Aircraft with Spaceshipone Underneath on a Runway" border="0" height="300" width="400"></a>
+{% include JB/setup %}
+
+<div style="float:left; margin-top: 5px; margin-right: 10px; text-align: center"><a href="http://affiliates.allposters.com/link/redirect.asp?item=3577637&amp;AID=1242509632&amp;PSTID=1&amp;LTID=2&amp;lang=1" target="_blank" title="The White Knight Aircraft with Spaceshipone Underneath on a Runway"><img src="http://imagecache2.allposters.com/images/NGSPOD/132982-FB.jpg" alt="The White Knight Aircraft with Spaceshipone Underneath on a Runway" border="0" height="300" width="400"></a>
  <p>
   <img src="http://tracking.allposters.com/allposters.gif?AID=1242509632&amp;PSTID=1&amp;LTID=2&amp;lang=1" border="0" height="1" width="1">
   <br/>
