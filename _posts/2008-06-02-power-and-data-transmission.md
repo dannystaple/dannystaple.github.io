@@ -10,7 +10,7 @@ layout: post
 
 
 As I have been looking at wiring up my flat, I have been thinking of ways to conserve power and space - cable space that is. There is nothing I am more interested in right now than ways to banish "wall warts" - the many, many small 12v DC adaptors. Nearly every device has one, my mobile phone, landline phone, the NAS, monitor, printer, microcontroller dev boards/programmers, guitar effects units. The list actually goes on and on.
-{% excerpt_separator %}
+
 
 Even the PC has its switched power supply supplying DC to most of the components. Why am I having to convert to DC over and over?
 
