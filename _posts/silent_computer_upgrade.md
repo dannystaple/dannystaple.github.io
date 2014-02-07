@@ -1,11 +1,12 @@
-
 ---
 created: 2007-05-13 07:50:08
 description: Silent Computer Upgrade
 tags: [pc, upgrade, silent, amd, cpu, turion, sempron, gigabyte, motherboard]
 title: Silent Computer Upgrade
+layout: post
 ---
-<div class="postbody-content">
+{% include JB/setup %}
+
  <p>
   As well as building robots, I also like to build and upgrade my computers. In fact, I like generally tinkering with all sorts of machines. My main desktop was once specified and built as a hard core gaming rig. It was a little past that now. But it had a bit of a wopping specification, with all the noise and power usage problems that come with it.
  </p>
@@ -101,7 +102,3 @@ title: Silent Computer Upgrade
    </a>
   </li>
  </ul>
- <p>
-  <br/>
- </p>
-</div>
