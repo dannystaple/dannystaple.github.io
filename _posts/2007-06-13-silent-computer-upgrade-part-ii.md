@@ -3,7 +3,10 @@ created: 2007-06-13 11:55:30
 description: Silent Computer Upgrade - Part II
 tags: [pc, upgrade, silent, amd, cpu, turion, sempron, ubuntu, linux, bootdisk, gigabyte, motherboard, freedos]
 title: Silent Computer Upgrade - Part II
+layout: post
 ---
+{% include JB/setup %}
+
  <p>
   In the <a href="silent_computer_upgrade.md">previous article</a>, I talked about some of the research I had done to prepare for this. Some real thought had gone into it before I even started buying the CPU and considering the other tools and parts needed. Any project like this should have a little research done, although as this project demonstrates, you will also sometimes have think up quite a bit on the fly.
  </p>
@@ -162,8 +165,8 @@ title: Silent Computer Upgrade - Part II
  <h1 id="Making_the_bootable_flash_CD">Making the bootable flash CD</h1>
  <p>I used Ubuntu Linux for this. I unpacked the file downloaded from Gigabyte, and also downloaded a Freedos boot disk image to tailor to my needs. I used a boot disk known as "Ripcord".</p>
  <p>With this boot disk, I was able to mount it as a loopback vfat device, and copy the files from the gigabyte archive into it.</p>
- <pre class="codelisting" data-wrap="1" dir="ltr" id="codebox1" style="white-space:pre-wrap; white-space:-moz-pre-wrap !important; white-space:-pre-wrap; white-space:-o-pre-wrap; word-wrap:break-word;">mkdir /mnt/bootdisk
-mount /home/danny/freedos.img /mnt/bootdisk -t msdos -o loop</pre>
+```mkdir /mnt/bootdisk
+mount /home/danny/freedos.img /mnt/bootdisk -t msdos -o loop```
  <p>
   <br/>
   You will need to run those commands as root, or by prefixing them with sudo as is the convention in Ubuntu.
@@ -176,8 +179,8 @@ mount /home/danny/freedos.img /mnt/bootdisk -t msdos -o loop</pre>
  <h1 id="Links">Links</h1>
  <ul>
   <li><a href="Silent Computer Upgrade.html">Silent Computer Upgrade - Part I</a></li>
-  <li><a href="http://www.silentpcreview.com/article300-page1.html" rel="external" target="_blank">Silent PC Review - AMD Turion 64 on the Desktop</a></li>
-  <li><a href="http://www.gigabyte.com.tw" rel="external" target="_blank">Gigabyte support and product site</a></li>
-  <li><a href="http://www.fdos.org/bootdisks/" rel="external" target="_blank">FREEDOS Ripcord BootDisk</a></li>
+  <li><a href="http://www.silentpcreview.com/article300-page1.html">Silent PC Review - AMD Turion 64 on the Desktop</a></li>
+  <li><a href="http://www.gigabyte.com.tw">Gigabyte support and product site</a></li>
+  <li><a href="http://www.fdos.org/bootdisks/">FREEDOS Ripcord BootDisk</a></li>
  </ul>
 
