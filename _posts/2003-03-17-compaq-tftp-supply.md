@@ -28,20 +28,31 @@ The original article had a number of suppliers, but most have since either disap
 
 Suppliers that may be able to help:
 
-* <a href="http://www.trademoon.com">Trademoon Product Catalogue - Compaq Supply</a>
-* <a href="http://www.powersourceonline.com/buy/170427--001-b-en.jsa">Buy & sell new, used and refurbished 170427-001 on PowerSourceOnline.com</a>
+(insert here)
 
-# Understanding the Compaq Power Connection
 
-<img src="{{ site.baseurl }}/images/compaq_power_connection.png" />
 
-The Compaq models - like the TFT 5000 (and 450) monitor are pretty expensive, and are hard to get service of parts for after HP acquiring compaq. Mine came without a power adaptor - which used a custom connector type - which was an expensive and rare part to replace.
+My initial findings were that it has one 12v, 2amp and a 5v/2.5a supply, I know which pins are the common. But it was pretty awkward to find out which of the other pins were which. The image beside this is a pin connection specification for the DC outputs of the AC power supply based on the info I found. The power supply is listed also as the dual voltage adaptor, it is suitable for the socket/plug for a Compaq TFT 5000, and possibly other models like the TFT450, LCD Monitor.
 
-Other monitors with missing power supplies are generally much simpler - and are often just a single cigar style power connector at 12v with a relatively high current. But this one is more specialist - the connector is the same as used for a PS2 mouse or keyboard - a 6 pin round connector.
+# Using A PC Power Supply
+<img src="{{ site.baseurl }}/images/pc_drive_power_pins.gif" />
 
-As a result - I collected and worked out what information I could by questioning, probing with a multimeter. The multimeter was used to find continuity across the control board, and to check the voltages on the power supply, to find only part was coming through. I also searched the internet, read the markings on the transformer and on the main PCB for the monitor.
+One good source of a 5v and 12v power rails with good stable current supplies are PC ATX power Supplies - these are fairly easily available, both new and old. Only two steps are required to convert one of these into a power supply usable on the Compaq Monitors.
 
-## Helpful websites:
+First a connector needs to be correctly wired to it, and then second the power supply needs an on switch.
 
-* <a href="http://www.diyaudio.com/forums/lcd/20318-compaq-tft-5000-a.html">Compaq TFT 5000? - diyAudio</a>
-* <a href="http://slashdot.org/journal/56518/Juggling-christmas-dinner-robots-websites-and-families?art_pos=1">Connector Pinout On My Slashdot Journal</a> - A user DexterPexter responded to me with some great info there, and is also a robot builder.
+The diagram accompanying this section shows the wiring for one of the drive connectors from a PC power supply. Conveniently - it has a 12v rail, a 5v rail and dual ground rails. For detailed information on this connector type, take a look at <a href="http://www.pcguide.com/ref/power/sup/partsDrive-c.html">Drive Power Connectors</a>.
+
+
+This can be done relatively safely, as it does not require opening the power supply. If you can find a standard drive socket, and wire this to a chopped off PS2 mouse or keyboard connector with the right connections, this is a relatively easy build. Be sure to test each connection made with a multimeter to ensure it is wired correctly and goes all the way through before connecting it to any AC outlet or the monitor.
+
+The ATX power supply is powered on usually by a PC motherboard, but can be powered on without one. The ATX connector, the large square plug that goes into the motherboard, can be used to power this on by connecting Pin 14 to a ground pin - a diagram of this will be added. A simple pushbutton will do this.
+
+# Reference Sites and Additional Info
+
+The following sites have additional info I have found on this monitor.
+
+* <a href="http://www.ciao.co.uk/Productinformation/Compaq_TFT_5000s__17460">TFT5000 Product description and specification</a>
+
+## Note
+This post has appeared before on the Orionrobots website and on squidoo - it has been removed from both and will be kept here.
