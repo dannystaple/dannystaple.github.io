@@ -28,6 +28,17 @@ The original article had a number of suppliers, but most have since either disap
 
 Suppliers that may be able to help:
 
+* <a href="http://www.trademoon.com">Trademoon Product Catalogue - Compaq Supply</a>
+* <a href="http://www.powersourceonline.com/buy/170427--001-b-en.jsa">Buy & sell new, used and refurbished 170427-001 on PowerSourceOnline.com</a>
+
+# Understanding the Compaq Power Connection
+
+<img src="{{ site.baseurl }}/images/compaq_power_connection.png" />
+
+The Compaq models - like the TFT 5000 (and 450) monitor are pretty expensive, and are hard to get service of parts for after HP acquiring compaq. Mine came without a power adaptor - which used a custom connector type - which was an expensive and rare part to replace.
+
+Other monitors with missing power supplies are generally much simpler - and are often just a single cigar style power connector at 12v with a relatively high current. But this one is more specialist - the connector is the same as used for a PS2 mouse or keyboard - a 6 pin round connector.
+
 (insert here)
 
 
