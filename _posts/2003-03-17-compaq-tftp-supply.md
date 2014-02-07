@@ -10,7 +10,7 @@ layout: post
 <img src="images/compaq_tft_monitor.jpg" />
 
 Some time ago I bought a second user Compaq TFT monitor. I had to spend a little time getting a power supply to get it running. These power supplies are notoriously difficult and expensive to get hold of, so I rigged my own.
-{% excerpt_separator %}
+<!-- more -->
 
 These compaq flat screen monitors (not CRT technology) are now getting quite long in the tooth, but were great because they came in rack mount versions too. They would only really be found now on eBay - I would not really advise buying a Compaq TFT, but if you already have one, or have been given one, then this page contains advice on getting one working - specifically power supplies which can be hard to find for this model.
 
