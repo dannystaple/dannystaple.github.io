@@ -22,9 +22,9 @@ I will be clicking through and seeing if I can spot his boat in the satellite im
 * <http://www.mturk.com> - Register with Mturk to help find and accept hits for the Jim Gray Search.
 * [NBC - Public's help sought in search for Microsoft's Jim Gray](http://www.nbc11.com/news/10917602/detail.html)
 * [LA Times - Friends seek missing scientist](http://www.latimes.com/news/printedition/california/la-me-gray3feb03,1,6697657.story?coll=la-headlines-pe-california&amp;ctrack=1&amp;cset=true)
-  <li><a href="http://www.theregister.co.uk/2007/02/01/jim_gray_search_dropped/" rel="external" target="_blank">The Register - Coastguard calls off search for Jim Gray</a></li>
-  <li><a href="http://www.nbc11.com/news/10888165/detail.html" rel="external" target="_blank">NBC - Coast Guard To Call Off Search For Missing Sailor</a></li>
-  <li><a href="http://www.orionrobots.co.uk/blog/Interesting%20Register%20Article%20_%20Will%20Robots%20Ever%20Be%20Like%20Humans%20.html">Orionrobots Describing Mechanical Turk</a></li>
-  <li><a href="http://research.microsoft.com/~Gray/" rel="external" target="_blank">Jim Gray Bio on his Microsoft Research Homepage</a></li>
- </ul>
+* <a href="http://www.theregister.co.uk/2007/02/01/jim_gray_search_dropped/">The Register - Coastguard calls off search for Jim Gray</a>
+* <a href="http://www.nbc11.com/news/10888165/detail.html">NBC - Coast Guard To Call Off Search For Missing Sailor</a>
+* <a href="http://www.orionrobots.co.uk/blog/Interesting%20Register%20Article%20_%20Will%20Robots%20Ever%20Be%20Like%20Humans%20.html">Orionrobots Describing Mechanical Turk</a>
+* <a href="http://research.microsoft.com/~Gray/">Jim Gray Bio on his Microsoft Research Homepage</a>
+
 
