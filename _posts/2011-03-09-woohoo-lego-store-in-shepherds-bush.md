@@ -1,6 +1,6 @@
 ---
 created: 2011-03-09 15:35:00
-tags: [lego,london]
+tags: [lego, london]
 title: Woohoo Lego Store in Shepherds Bush
 layout: post
 ---
@@ -18,7 +18,7 @@ The Pick-a-brick setup, if you aren't familiar with the idea, is a bunch of buck
 
 There is a "make-your-own-minifig" area, where punters can select heads, headgear, tools, bodys, legs and other accessories to make a minifig, then pay to take that home. Boxes for them are provided.
 
-Also in the store, the current flavour of the month is displayed, as we went in that was the <a href="http://www.squidoo.com/lego-hero-factory-theme">Lego Hero Factory theme</a>.
+Also in the store, the current flavour of the month is displayed, as we went in that was the [Lego Hero Factory theme](http://www.squidoo.com/lego-hero-factory-theme).
 
 The layout is pretty well thought out, given that youngsters will want to run around, and there was a very big bucket of duplo set into a table with two studded surfaces, so the toddlers can build towers (as our little one did). Or indeed knock each others over. Each Lego theme has a separate area on the wall, including some special bits.
 
