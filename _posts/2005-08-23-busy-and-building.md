@@ -12,9 +12,9 @@ I have not posted to the blog for a couple of weeks, but I have not been idle.
 
 I have been making many small and useful improvements to the orionrobots site. First - I have created two tikiwiki mods which are now distributed on the articles section. They are all installable tiki mods, and I still have some work to do on a third item before its distributed.
 
-The first is a [technorati plugin](tiki-read_article.php?articleId=8), which allows tikiwiki users to create technorati tags inside their wiki.
+The first is a technorati plugin, which allows tikiwiki users to create technorati tags inside their wiki.
 
-The second is a [Googlebar module](tiki-read_article.php?articleId=8) which allows other tikiwiki sites to host google ads as a module like I do.
+The second is a Googlebar module which allows other tikiwiki sites to host google ads as a module like I do.
 
 The third (which will be uploaded shortly) is a googlebar plugin for wikipages, which allows placement of googlebars in content.
 
