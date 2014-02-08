@@ -27,7 +27,7 @@ By the way, the reason the phone line analogy works pretty well is that in compu
 
 Both the application and Telnet service are likely to be running on the same remote machine, in this case the DSM-G600. It is now clear that once the protocol is understood, any authentication has taken place and the connection is established, the telnet service layer should become transparent:
 
-![The link is transparent]({{ image_base }}UserApplication.png)
+![The link is transparent]({{ image_base }}/UserApplication.png)
 
 Still with me?
 
