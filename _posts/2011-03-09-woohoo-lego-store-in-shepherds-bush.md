@@ -1,8 +1,7 @@
 ---
 created: 2011-03-09 15:35:00
-description: Woohoo! Lego Store in Shepherds Bush
 tags: [lego,london]
-title: Woohoo! Lego Store in Shepherds Bush
+title: Woohoo Lego Store in Shepherds Bush
 layout: post
 ---
 {% include JB/setup %}
