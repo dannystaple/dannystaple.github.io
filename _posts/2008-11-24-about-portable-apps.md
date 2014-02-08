@@ -60,7 +60,7 @@ This selection of apps are just some of those you get bundled with the initial d
 
 # Where do I get PortableApps?
 
-PortableApps can be downloaded at <http://www.portableapps.com>. It is also totally free.
+PortableApps can be downloaded at <http://portableapps.com>. It is also totally free.
 
 There are currently three distributions, the small platform only 1mb, the 35Mb light suite, and the 114Mb full featured suite with many additional apps bundled.
 
