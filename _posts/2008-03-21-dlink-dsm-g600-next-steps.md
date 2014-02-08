@@ -84,7 +84,7 @@ My plans included getting an SVN server running on the box, with trac - although
 
 # Links
 
-* [New Toy - DLink DSM-G600 NAS Box - First Part of this series](2008-03-16-new-toy-dlink-dsm-g600-nas-box)
+* [New Toy - DLink DSM-G600 NAS Box - First Part of this series]({% post_url 2008-03-16-new-toy-dlink-dsm-g600-nas-box %})
 * [DSMG600Wiki Howto use fun_plug](http://dsmg600.info/howto:fun_plug)
 * [DSMG600Wiki How-to enable telnet](http://dsmg600.info/howto:telnet)
 
