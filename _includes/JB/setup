@@ -20,3 +20,4 @@
     {% endif %}  
   {% endif %}
 {% endcapture %}{% assign jbcache = nil %}
+{% assign image_base = site.image_base %}
