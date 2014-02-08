@@ -22,6 +22,4 @@ If space flight becomes more commercial and market driven, costs will be driven 
 
 # Links
 
-* <a href="More Space News.html">DannyStaple - More Space News</a>
-* <a href="Prototype Space hotal Launches.html">DannyStaple - Prototype Space hotel Launches</a>
 * <a href="http://news.bbc.co.uk/1/hi/sci/tech/7205445.stm">BBC News - Virgin unveils spaceship designs</a>
