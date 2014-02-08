@@ -64,6 +64,6 @@ So now you know what telnet is, how to get the service running on the DSM-G600, 
 # Links
 
 * <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY: A Free Telnet/SSH Client - also useful for serial too</a>
-* <a href="blogs/1/181">DSM-G600 Next Steps - Getting Telnet service to run on the DSM-G600</a>
-* <a href="blogs/1/180">New Toy - DLink DSM-G600 NAS Box</a>
+* [DSM-G600 Next Steps - Getting Telnet service to run on the DSM-G600]({% post_url 2008-03-21-dlink-dsm-g600-next-steps %})
+* [New Toy - DLink DSM-G600 NAS Box]({% post_url 2008-03-16-new-toy-dlink-dsm-g600-nas-box  %})
 * <a href="http://dsmg600.info/start">The DSM-G600 community</a>
