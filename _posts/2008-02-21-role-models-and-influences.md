@@ -1,7 +1,7 @@
 ---
 created: 2008-02-21 16:35:00
 description: Role models and influences
-tags: [people, robots, technology, role_models, icons, babbage, tesla, einstein, turing]
+tags: [people, technology, babbage, tesla, einstein, turing]
 title: Role models and influences
 layout: post
 ---
