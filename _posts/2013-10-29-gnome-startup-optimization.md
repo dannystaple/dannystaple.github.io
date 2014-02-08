@@ -29,7 +29,7 @@ So when you start up - it will automatically log you in, then (and in slightly u
 # References
 
 * <a href="http://gnomeshell.wordpress.com/2011/08/28/manage-the-startup-applications/">Manage The Startup Applications | The Gnome Shell</a> - So intuitive I had to RTFM to find it - Gnome settings are not quite the GUI experience they once were.
-* <a href="http://www.tejasbarot.com/2009/04/16/lock-your-screen-using-command-line/#axzz2j6WjixOg">Lock Your Screen using the command line @ All Linux User's Blog</a> - Quick handy reference there.
+* <a href="http://www.tejasbarot.com/2009/04/16/lock-your-screen-using-command-line">Lock Your Screen using the command line @ All Linux User's Blog</a> - Quick handy reference there.
 
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-post" data-href="https://plus.google.com/110194536319300332772/posts/ByvRcdVhaaQ"></div>
