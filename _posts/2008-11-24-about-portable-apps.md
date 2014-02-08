@@ -1,4 +1,3 @@
-
 ---
 layout: post
 description: Transport Your Favourite Apps To Any Windows PC
@@ -135,11 +134,10 @@ Find the following key:
 
   The "/m rm" line ensures the device is mounted as removable media, which can be made to autorun. Save this file, then try out the autorun.
 
-* [More info on getting USB flash drives to autorun in Windows Vista](http://web.archive.org/web/20130315012552/http://www.samlogic.net/articles/autorun-usb-flash-drive.htm)
+* [More info on getting USB flash drives to autorun in Windows Vista](http://www.samlogic.net/articles/autorun-usb-flash-drive.htm)
 
 
 # Alternatives
 PortableApps is not the only software to offer functionality like this. Other software which achieves a similar function is the U3 Apps Suite, and Mojopac.
 
 Mojopac is interesting, as instead of being a suite of apps built against a platform (PortableApps), it allows any application, and provides a virtual environment for them.
-
