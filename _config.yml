@@ -28,6 +28,7 @@ author :
 #
 production_url : http://dannystaple.github.io
 
+image_base: /assets/images
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
