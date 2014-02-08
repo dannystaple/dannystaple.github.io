@@ -9,7 +9,7 @@ layout: post
 
 
 <div style=" float: right;">
- ![]({% image_base %}/SELENE.jpg)
+ ![]({{ image_base }}/SELENE.jpg)
 </div>
 
 I have been reading recently about SELENE - SELenological and ENgineering Explorer - a Japanese probe that was sent to the moon on the 14th September. SELENE and its payload of around 13 scientific instruments successfully reached Lunar orbit on the 3rd of October. It was launched from the the remote island Tanegashima Space Center.
