@@ -7,9 +7,10 @@ layout: post
 ---
 {% include JB/setup %}
 
- <div style=" float: right;">
-  ![](http://orionrobots.co.uk/image450)
- </div>
+
+<div style=" float: right;">
+ ![]({% image_base %}/SELENE.jpg)
+</div>
 
 I have been reading recently about SELENE - SELenological and ENgineering Explorer - a Japanese probe that was sent to the moon on the 14th September. SELENE and its payload of around 13 scientific instruments successfully reached Lunar orbit on the 3rd of October. It was launched from the the remote island Tanegashima Space Center.
 
@@ -25,7 +26,6 @@ This will hopefully be enough of a challenge to get the American and European sp
 
 # Links
 
-* [LiveScience Blogs - Japan Moon Probe - Now In Lunar Orbit](http://www.livescience.com/blogs/2007/10/04/japan-moon-probe-next-stop-lunar-orbit/)
 * [IHT  - Japanese lunar probe reaches orbit in a first](http://www.iht.com/articles/ap/2007/10/05/asia/AS-GEN-Japan-Moon-Probe.php)
 * [Wikipedia - SELENE](http://en.wikipedia.org/wiki/SELENE)
 * [BBC - On This Day - 1957: Sputnik satellite blasts into space](http://news.bbc.co.uk/onthisday/hi/dates/stories/october/4/newsid_2685000/2685115.stm)
