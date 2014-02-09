@@ -120,7 +120,7 @@ I am relatively sure that I have only covered a very small portion of the possib
 So do you know any systems? Could you advise me, or tell me your experiences with these devices? Maybe you are a company with products like this trying to make yourself known - in which case you are free to leave a comment on this article with a link back to your site.
 
 # Links
-* [Greenplug](http://www.greenplug.us/oneplug.html)
+* [Greenplug - One Plug To Rule Them All](http://greenplug.us/news/item/bmV3czUxMzg3NTE5YTk4M2Q=)
 * [Powered USB on Wikipedia](http://en.wikipedia.org/wiki/PoweredUSB)
 * [Powered USB site](http://www.poweredusb.org/index.html)
 * [Power Over Ethernet on Wikipedia](http://en.wikipedia.org/wiki/802.3af)
