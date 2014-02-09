@@ -26,7 +26,8 @@ This will hopefully be enough of a challenge to get the American and European sp
 
 # Links
 
-* [IHT  - Japanese lunar probe reaches orbit in a first](http://www.iht.com/articles/ap/2007/10/05/asia/AS-GEN-Japan-Moon-Probe.php)
+* [Google offers $25 million prize for unmanned lunar landing](http://www.nytimes.com/2007/09/14/world/americas/14iht-moon.1.7504462.html?_r=0)
+* [BBC NEWS | World | Asia-Pacific | Japan launches first lunar probe](http://news.bbc.co.uk/1/hi/world/asia-pacific/6994272.stm)
 * [Wikipedia - SELENE](http://en.wikipedia.org/wiki/SELENE)
 * [BBC - On This Day - 1957: Sputnik satellite blasts into space](http://news.bbc.co.uk/onthisday/hi/dates/stories/october/4/newsid_2685000/2685115.stm)
 * [Wikipedia - Chandrayaan](http://en.wikipedia.org/wiki/Chandrayaan-1)
