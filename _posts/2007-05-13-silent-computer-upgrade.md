@@ -73,9 +73,8 @@ The CPU is the most interesting part of this upgrade. I read an article on about
 This would bring some great advantages. Not only was it a faster rated processor in terms of performance (same clock speed), but it was 64 bit. More importantly, it had a TDP (Thermal Output- Typical Dissipated Power) of around 31W - half that of the Sempron. This meant it used less power from the PSU and needed less cooling (lower fan speed or simply a smaller fan). It was obvious this was a good route to my goals.
 
 I started doing the research - would my motherboard support it? I did not find much information specifically regarding my board, only one article on using the Turion with the K8NS-Pro motherboard - one that had a number of differences from the non pro model. The research suggested I might need a different BIOS image depending on the age of it and what kind of stepping it supported. With a Sempron that did not support Cool and Quiet voltage stepping, I had no way of knowing. Gigabyte suggested it might not.
- </p>
- <p>
-  I decided to take the risk, and buy one of these. I had to hunt around and shop around, and eventually found one on eBay for £65. This was the AMD Turion 64 with a Lancaster Core- the ML-30. I was actually able to collect it locally, so I was able to get underway within a day of starting. The CPU was still in a sealed static proof bag, so it was in new condition.
+
+I decided to take the risk, and buy one of these. I had to hunt around and shop around, and eventually found one on eBay for £65. This was the AMD Turion 64 with a Lancaster Core- the ML-30. I was actually able to collect it locally, so I was able to get underway within a day of starting. The CPU was still in a sealed static proof bag, so it was in new condition.
 
 My next step was to remove the old CPU and fit the new one. This threw up a few issues, so I will cover this next time...
 
