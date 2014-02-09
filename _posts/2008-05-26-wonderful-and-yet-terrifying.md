@@ -13,17 +13,17 @@ Following this, I decided to have a look around for Dalek stuff on the net. Anyw
 
 The first is a great following of people rendering Daleks with various 3D packages - a quick google search, and you will find many. In these, I came across the Spider Dalek - a prototype Dalek which will be some peoples worst nightmares combined!
 
-<img alt="An imperial spider dalek! A very chilling concept." height="240" src="image256" width="300"/>
+![An imperial spider dalek! A very chilling concept]({{ image_base }}/ImperialSpiderDalek.jpg)
 
 This led me to the one remaining source of good renders of these - the Dalek Chess Project. Yes - some crazy people have started a project to make a battlechess game variant with Daleks as pieces. It uses the two factions (Rebel and Imperials) seen in Remembrance of the Daleks, and has the Dalek Spiders as Bishops.
 
  For those of you who have never seen Battlechess, it is rather like the Harry Potter wizards chess - where the pieces brutally smash each other. In this version, they use their deadly death-rays and plungers to destroy each other.
 
-<a href="tiki-directory_redirect.php?siteId=129">The Dalek Chess Project</a>
+<a href="http://dalekchess.sourceforge.net">The Dalek Chess Project</a>
 
-Finally - because I like Lego, I also found a <a href="tiki-directory_redirect.php?siteId=130">Minifig Scale Dalek</a>. Although simplistic - it is definitely recognisably a Dalek. Feel free to comment if you have built one of your own - Lego Daleks really would be fantastic.
+Finally - because I like Lego, I also found a <a href="http://www.brickshelf.com/cgi-bin/gallery.cgi?i=1183937">Minifig Scale Dalek</a>. Although simplistic - it is definitely recognisably a Dalek. Feel free to comment if you have built one of your own - Lego Daleks really would be fantastic.
 
 # Links
 
-* <a href="tiki-directory_redirect.php?siteId=129">The Dalek Chess Project</a>
-* <a href="tiki-directory_redirect.php?siteId=130">Minifig Scale Dalek</a>
+* <a href="http://dalekchess.sourceforge.net">The Dalek Chess Project</a>
+* <a href="http://www.brickshelf.com/cgi-bin/gallery.cgi?i=1183937">Minifig Scale Dalek</a>
