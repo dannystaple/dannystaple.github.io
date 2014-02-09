@@ -1,8 +1,7 @@
 ---
 created: 2008-06-02 09:09:13
 description: Power and data transmission
-tags: [power, diy, powersaving, poweroverethernet, computer, greenplug, wallwart,
-  poe, pc, 802.3af, network, wiredhouse]
+tags: [power, diy, electronics, computing, computer, pc]
 title: Power and data transmission
 layout: post
 ---
@@ -57,7 +56,7 @@ Greenplug are a company producing a single power unit to replace many power unit
 * This has potential if it is supported by the manufacturers.
 * Negotiable power - means that devices will be able to request power, no switches or matching.
 * Power saving - devices may be able to inform the greenplug when they go into a low power mode or have stopped charging.
-* Based on a hybrid [USB](/Universal+Serial+Bus) universal connector.
+* Based on a hybrid USB universal connector.
 * Can offer basic USB power for normal USB powered devices.
 
 
