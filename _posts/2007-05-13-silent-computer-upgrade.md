@@ -67,38 +67,26 @@ layout: post
  <h1 class="showhide_heading" id="The_CPU">
   The CPU
  </h1>
- <p>
-  The CPU is the most interesting part of this upgrade. I read an article on about putting an AMD Turion 64 Laptop processor on a desktop motherboard. The interesting thing is that the Turion 64 uses the same socket 754 technology as the Sempron, and I might be able to fit it.
+
+The CPU is the most interesting part of this upgrade. I read an article on about putting an AMD Turion 64 Laptop processor on a desktop motherboard. The interesting thing is that the Turion 64 uses the same socket 754 technology as the Sempron, and I might be able to fit it.
+
+This would bring some great advantages. Not only was it a faster rated processor in terms of performance (same clock speed), but it was 64 bit. More importantly, it had a TDP (Thermal Output- Typical Dissipated Power) of around 31W - half that of the Sempron. This meant it used less power from the PSU and needed less cooling (lower fan speed or simply a smaller fan). It was obvious this was a good route to my goals.
+
+I started doing the research - would my motherboard support it? I did not find much information specifically regarding my board, only one article on using the Turion with the K8NS-Pro motherboard - one that had a number of differences from the non pro model. The research suggested I might need a different BIOS image depending on the age of it and what kind of stepping it supported. With a Sempron that did not support Cool and Quiet voltage stepping, I had no way of knowing. Gigabyte suggested it might not.
  </p>
  <p>
-  This would bring some great advantages. Not only was it a faster rated processor in terms of performance (same clock speed), but it was 64 bit. More importantly, it had a TDP (Thermal Output- Typical Dissipated Power) of around 31W - half that of the Sempron. This meant it used less power from the PSU and needed less cooling (lower fan speed or simply a smaller fan). It was obvious this was a good route to my goals.
- </p>
- <p>
-  I started doing the research - would my motherboard support it? I did not find much information specifically regarding my board, only one article on using the Turion with the K8NS-Pro motherboard - one that had a number of differences from the non pro model. The research suggested I might need a different BIOS image depending on the age of it and what kind of stepping it supported. With a Sempron that did not support Cool and Quiet voltage stepping, I had no way of knowing. Gigabyte suggested it might not.
- </p>
- <p>
-  I decided to take the risk, and buy one of these. I had to hunt around and shop around, and eventually found one on eBay for Â£65. This was the AMD Turion 64 with a Lancaster Core- the ML-30. I was actually able to collect it locally, so I was able to get underway within a day of starting. The CPU was still in a sealed static proof bag, so it was in new condition.
- </p>
- <p>
-  My next step was to remove the old CPU and fit the new one. This threw up a few issues, so I will cover this next time...
- </p>
- <h1 class="showhide_heading" id="Links">
-  Links
- </h1>
- <ul>
-  <li>
-   <a class="wiki external" href="http://www.silentpcreview.com/article300-page1.html" rel="external" target="_blank">
-    AMD Turion 64 on the Desktop
-   </a>
-  </li>
-  <li>
-   <a class="wiki external" href="http://en.wikipedia.org/wiki/List_of_AMD_Sempron_microprocessors#Sempron_.22Palermo.22_.28Socket_754.2C_90_nm.29" rel="external" target="_blank">
-    Wikipedia on the Sempron 2800
-   </a>
-  </li>
-  <li>
-   <a class="wiki external" href="http://angelfall.s39.xrea.com/area2ch/turion-e.html" rel="external" target="_blank">
-    Article regarding Turion 64 with K8NS-Pro board
-   </a>
-  </li>
- </ul>
+  I decided to take the risk, and buy one of these. I had to hunt around and shop around, and eventually found one on eBay for £65. This was the AMD Turion 64 with a Lancaster Core- the ML-30. I was actually able to collect it locally, so I was able to get underway within a day of starting. The CPU was still in a sealed static proof bag, so it was in new condition.
+
+My next step was to remove the old CPU and fit the new one. This threw up a few issues, so I will cover this next time...
+
+# Links
+<ul>
+ <li>
+  <a href="http://www.silentpcreview.com/article300-page1.html">AMD Turion 64 on the Desktop</a>
+ </li>
+ <li>
+  <a href="http://en.wikipedia.org/wiki/List_of_AMD_Sempron_microprocessors#Sempron_.22Palermo.22_.28Socket_754.2C_90_nm.29">Wikipedia on the Sempron 2800</a>
+ </li>
+ <li><a href="http://angelfall.s39.xrea.com/area2ch/turion-e.html">Article regarding Turion 64 with K8NS-Pro board</a>
+ </li>
+</ul>
