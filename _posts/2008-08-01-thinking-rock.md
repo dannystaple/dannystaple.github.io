@@ -33,7 +33,7 @@ Tasks can then be looked at, edited, and marked as completed
 
 Thinking Rock is at it's heart a tool for Getting Things Done - otherwise known as GTD. Making sure you don't forget all the important stuff, that you don't feel pressure at an ever growing backlog, and that you are thinking about what is worth doing and where your time is going. Thinking Rock helps you ask why you are going to do something, not just how - a thought process worth having for stuff that is longer than about 5 minutes, and many things shorter if you repeat them.
 
-David Allen:  Getting Things Done: The Art of Stress-Free Productivity
+Worth reading on this topic - "Getting Things Done: The Art of Stress-Free Productivity" by David Allen
 
 # Why Thinking Rock can help
 
