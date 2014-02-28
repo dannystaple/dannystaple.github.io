@@ -1,4 +1,3 @@
-
 ---
 layout: post
 description: Transport Your Favourite Apps To Any Windows PC
@@ -61,7 +60,7 @@ This selection of apps are just some of those you get bundled with the initial d
 
 # Where do I get PortableApps?
 
-PortableApps can be downloaded at <http://www.portableapps.com>. It is also totally free.
+PortableApps can be downloaded at <http://portableapps.com>. It is also totally free.
 
 There are currently three distributions, the small platform only 1mb, the 35Mb light suite, and the 114Mb full featured suite with many additional apps bundled.
 
@@ -135,11 +134,10 @@ Find the following key:
 
   The "/m rm" line ensures the device is mounted as removable media, which can be made to autorun. Save this file, then try out the autorun.
 
-* [More info on getting USB flash drives to autorun in Windows Vista](http://web.archive.org/web/20130315012552/http://www.samlogic.net/articles/autorun-usb-flash-drive.htm)
+* [More info on getting USB flash drives to autorun in Windows Vista](http://www.samlogic.net/articles/autorun-usb-flash-drive.htm)
 
 
 # Alternatives
 PortableApps is not the only software to offer functionality like this. Other software which achieves a similar function is the U3 Apps Suite, and Mojopac.
 
 Mojopac is interesting, as instead of being a suite of apps built against a platform (PortableApps), it allows any application, and provides a virtual environment for them.
-

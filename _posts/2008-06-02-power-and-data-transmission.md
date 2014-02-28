@@ -1,8 +1,7 @@
 ---
 created: 2008-06-02 09:09:13
 description: Power and data transmission
-tags: [power, diy, powersaving, poweroverethernet, computer, greenplug, wallwart,
-  poe, pc, 802.3af, network, wiredhouse]
+tags: [power, diy, electronics, computing, computer, pc]
 title: Power and data transmission
 layout: post
 ---
@@ -10,7 +9,7 @@ layout: post
 
 
 As I have been looking at wiring up my flat, I have been thinking of ways to conserve power and space - cable space that is. There is nothing I am more interested in right now than ways to banish "wall warts" - the many, many small 12v DC adaptors. Nearly every device has one, my mobile phone, landline phone, the NAS, monitor, printer, microcontroller dev boards/programmers, guitar effects units. The list actually goes on and on.
-{% excerpt_separator %}
+
 
 Even the PC has its switched power supply supplying DC to most of the components. Why am I having to convert to DC over and over?
 
@@ -57,7 +56,7 @@ Greenplug are a company producing a single power unit to replace many power unit
 * This has potential if it is supported by the manufacturers.
 * Negotiable power - means that devices will be able to request power, no switches or matching.
 * Power saving - devices may be able to inform the greenplug when they go into a low power mode or have stopped charging.
-* Based on a hybrid [USB](/Universal+Serial+Bus) universal connector.
+* Based on a hybrid USB universal connector.
 * Can offer basic USB power for normal USB powered devices.
 
 
@@ -121,7 +120,7 @@ I am relatively sure that I have only covered a very small portion of the possib
 So do you know any systems? Could you advise me, or tell me your experiences with these devices? Maybe you are a company with products like this trying to make yourself known - in which case you are free to leave a comment on this article with a link back to your site.
 
 # Links
-* [Greenplug](http://www.greenplug.us/oneplug.html)
+* [Greenplug - One Plug To Rule Them All](http://greenplug.us/news/item/bmV3czUxMzg3NTE5YTk4M2Q=)
 * [Powered USB on Wikipedia](http://en.wikipedia.org/wiki/PoweredUSB)
 * [Powered USB site](http://www.poweredusb.org/index.html)
 * [Power Over Ethernet on Wikipedia](http://en.wikipedia.org/wiki/802.3af)

@@ -29,7 +29,7 @@ The original article had a number of suppliers, but most have since either disap
 Suppliers that may be able to help:
 
 * <a href="http://www.trademoon.com">Trademoon Product Catalogue - Compaq Supply</a>
-(insert here)
+* <a href="http://www.powersourceonline.com/buy/170427--001-b-en.jsa">Buy and sell new, used and refurbished 170427-001 on PowerSourceOnline.com</a>
 
 # Understanding the Compaq Power Connection
 

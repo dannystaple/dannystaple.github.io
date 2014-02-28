@@ -35,7 +35,7 @@ Here is hoping that efficient space craft and space hotels really do begin to be
 
 * <http://www.theregister.co.uk/2007/07/27/scaled_composites_mojave_spaceship_two_explosion/>
 * [Las Cruces - Fatal Accident Does not Deter Spaceport Officials](http://www.lcsun-news.com/news/ci_6483385)
-* [Aviation Community Devastated by fatal airport explosion](http://www.kget.com/news/local/story.aspx?content_id=530d01a7-2215-4ee1-9568-6edcc3904343)
+* [Aviation Community Devastated by fatal airport explosion](http://icast.org.in/news/2007/jul07/jul27kget.pdf)
 * [Space.com - Explosion kills three at Mojave Air and Space Port](http://www.space.com/news/070727_scaled_explosion_update.html)
 * [Virgin Galactic](http://www.virgingalactic.com/)
 * [Scaled Composites](http://www.scaled.com/)
