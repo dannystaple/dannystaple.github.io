@@ -7,7 +7,7 @@ layout: post
 ---
 {% include JB/setup %}
 
- In the <a href="silent_computer_upgrade.md">previous article</a>, I talked about some of the research I had done to prepare for this. Some real thought had gone into it before I even started buying the CPU and considering the other tools and parts needed. Any project like this should have a little research done, although as this project demonstrates, you will also sometimes have think up quite a bit on the fly.
+ In the [previous article](/2007/05/13/silent_computer_upgrade.md), I talked about some of the research I had done to prepare for this. Some real thought had gone into it before I even started buying the CPU and considering the other tools and parts needed. Any project like this should have a little research done, although as this project demonstrates, you will also sometimes have think up quite a bit on the fly.
 
  I first wanted to change the CPU, as I can change the power supply once everything else works. Unfortunately, I do not have any real means of measuring the wattage used by the setup, so I just estimated it. I am sure I could sit down and calculate it, but I had a 350 Watt supply at hand, and didn't want to buy another.
 
