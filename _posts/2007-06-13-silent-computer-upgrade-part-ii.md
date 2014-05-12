@@ -141,8 +141,7 @@ I had a sneaking suspicion that the new update (F19 - with a change log message 
 
 # Links
 
-* <a href="Silent Computer Upgrade.html">Silent Computer Upgrade - Part I</a>
+* [Silent Computer Upgrade - Part I](/2007/05/13/silent-computer-upgrade.md)
 * <a href="http://www.silentpcreview.com/article300-page1.html">Silent PC Review - AMD Turion 64 on the Desktop</a>
 * <a href="http://www.gigabyte.com.tw">Gigabyte support and product site</a>
 * <a href="http://www.fdos.org/bootdisks/">FREEDOS Ripcord BootDisk</a>
-
