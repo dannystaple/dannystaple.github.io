@@ -9,7 +9,7 @@ layout: post
 
 This weekend, after waiting for our move, I opened the Titan XP Lego box. Quite an impressive number of pieces, and a good looking mecha for the main model.
 
-However, before I even managed the first of the listed models, I got inspired, and created myself a lighthouse and steamer (the movie Titanic was on at the time). Remember - all of the thumbnails are clickable:
+However, before I even managed the first of the listed models, I got inspired, and created myself a lighthouse and steamer (my wife was watching the movie Titanic at the time). Remember - all of the thumbnails are clickable:
 
 <a class="internal" href="browseimage288">
   <img alt="Image" class="regImage pluginImg" src="image288&amp;thumb=1"/>
