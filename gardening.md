@@ -3,19 +3,22 @@ layout: page
 title: My Food Growing and Gardening
 description: Things I like to grow and eat
 ---
+<style>
+.leftfloat {
+    float: left;
+    margin-right: 4px;
+}</style>
 {% include JB/setup %}
 
 # Growing tomatoes (and other stuff)
 
 ## Growing stuff, mostly edible stuff, mostly tomatoes
 
-<img src="/assets/images/small_green_tomatoes.jpg" style="float: left; margin-right: 4px;"/>
-
-There is little as satisfying as eating food you have grown yourself. I will admit, my wife usually cooks with it, but I have all the pleasure of growing it. Sure, a couple of non-food plants make the list (like the carnivorous ones that keep away pests), but it is nearly all edible. Tomatoes are pretty easy to grow, although they will need a bit of care. No supermarket tomato compares with one straight off the vine which has never been chilled or stored, and is still naturally warm.
+<img src="{{ GALLERY_PATH }}/gardening/small_green_tomatoes.jpg" class="leftfloat"/>There is little as satisfying as eating food you have grown yourself. I will admit, my wife usually cooks with it, but I have all the pleasure of growing it. Sure, a couple of non-food plants make the list (like the carnivorous ones that keep away pests), but it is nearly all edible. Tomatoes are pretty easy to grow, although they will need a bit of care. No supermarket tomato compares with one straight off the vine which has never been chilled or stored, and is still naturally warm.
 
 # Contents
 
-<img src="/assets/images/border_growing_tomatoes.jpg" />
+<img src="{{ GALLERY_PATH }}/gardening/border_growing_tomatoes.jpg" />
 
 # Me and My Plants
   
@@ -32,9 +35,10 @@ It is really as simple as this. Find a good spot like a window sill, shed or gar
 You do not need to be an expert to grow food. in fact, although it requires a little commitment of time and willingness to learn on the job, it is really simple to get started. This kit has everything you will need for your first food plants, and can be done in a window sill. This kit gets the seeds going quickly with no dirt or mess. It is 100% natural and organic.
 
 # Where did it start?
+
 ## When did I start growing stuff at all?
 
-<img src="images/border_left_tomatoes.jpg" />
+<img src="{{ GALLERY_PATH }}/gardening/border_left_tomatoes.jpg" align="left" style="margin-right: 4px"/>
 
 Well a few years back, we started buying the fresher herbs in supermarkets, and eventually got onto the potted herbs. In our old flat, the light was poor, so we mostly harvested them within a couple of weeks. After we bought a new flat, I decided to bring some life to it by stocking a large balcony window sill with many herbs. We started with a basil plant, which lasted for a year or so, as well as Rosemary and Thyme. I got more, and more interested and now have what is basically a jungle in the sill - with two varieties of tomatoes (some old and new), basil, rosemary, thyme, parsley, chives, a rubber plant and a carnivorous sundew plant .
 
@@ -66,7 +70,7 @@ More fruiting cherry tomato close ups.
 
 # Using the DIY propagator for tomatoes
 ## I built a propagator, and used it for the tomatoes.
-<img src="images/propagator_small.jpg" />
+<img src="{{ GALLERY_PATH }}/gardening/propagator_small.jpg" />
 
 When I first started growing tomatoes, and the second time around, I figured that if they like a greenhouse, then I should build some sort of propagator to get the seeds on the go.
 
@@ -141,6 +145,7 @@ The first is using newspaper, you can actually make it damp, and mould it into a
 The other I got from another great lens - <a href="http://www.squidoo.com/reusepaperroll#module10993399">How to Reuse Toilet-paper Rolls</a>, which is to use a toilet paper roll as a seed starting pot. You simply cut the roll in half, fill with soil, and place them close together in a tray. Try this video for some ideas <a href="http://www.dailymotion.com/video/xhkzhl_how-to-start-seeds-using-toilet-paper-rolls_lifestyle">How to start seeds using toilet paper rolls</a>
 
 # Pest Control for your food plants
+
 When growing anything, you are eventually going to encounter pests. Trust me - they've a way of getting to your plants, and learning methods of pest control is essential. It is so essential that it gets a page of its own. For any food growers, ignoring things that crawl on your plants may lead to a lot of disappointment.
 
 Read on to find out what I did, and ways to do so that avoid spoiling food plants and keep them edible.
@@ -151,11 +156,13 @@ Read on to find out what I did, and ways to do so that avoid spoiling food plant
 
 <a href="http://www.squidoo.com/plantpestcontrol">Organic Food Plant Pest and Parasite control</a>
 
-<h2>My pest control - a Sundew behind some chives.</h2>
-<img src="images/big_sundew.jpg" />
+## My pest control - a Sundew behind some chives.
 
-<h1>Tomato plants as gifts</h1>
-<img src="images/seedlings_illustration.png" />
+<img src="{{ GALLERY_PATH }}/gardening/big_sundew.jpg" />
+
+# Tomato plants as gifts
+
+<img src="{{ GALLERY_PATH }}/gardening/seedlings_illustration.png" />
 Tomato seedlings, once potted and grown out a little, make superb gifts. People tend to feel something you have grown and cared for a lot more meaningful than some consumer plastic rubbish bought in a rush in a supermarket. They have the added bonus of being quite a frugal gift too.
 
 <img src="http://static.squidoo.com/resize/squidoo_images/132/draft_lens2061916module35372372photo_5_1243065178SeedlingGift.jpg" style="float: left; margin-right:10px" alt="Tomato Seedlings" />This also gives the opportunity of introducing yet another person to the idea of planting and growing their own food, although when given, plenty of advice should be on hand and given too.
@@ -168,7 +175,7 @@ A few gift plants sit reasonably well in the bottom of a gift bag, or one of the
 
 A few weeks on and the receiver will still be thinking about plants, and they will not be gathering dust in the back of a cupboard. Of course, you may need to give them some tips and advice to get them started.
 
-<h1>Home grown tomatoes are awesome</h1>
+# Home grown tomatoes are awesome
 
 I've a special place in my stomach for home grown tomatoes. I love the tiny ones and the really big fat ones too. I love growing my own when I've space for them too!
 
@@ -182,9 +189,7 @@ I've a special place in my stomach for home grown tomatoes. I love the tiny ones
   <p class="nomargin">
     In this page are descriptions of common pests, parasites, infections, insects, fungi and diseases seen in food plants, along with organic and frugal ways to...</p>
 
-
-
-<h1>Flowering, Fruit and the tasty results</h1>
+# Flowering, Fruit and the tasty results
 
 In a while, after growing tomatoes, they will begin to put out flowering trusses. The flowers are a very endearing and distinct yellow colour. They do not necessarily need bees to pollinate them because of the way they are arranged, however, they do need a little bit of a shake to self pollinate.
 

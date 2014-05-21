@@ -26,3 +26,4 @@ This site collects together musings I have once written on other sites, and will
   {% endfor %}
 </ul>
 
+[Gardening](/gardening.html)
