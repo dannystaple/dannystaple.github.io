@@ -165,7 +165,7 @@ Read on to find out what I did, and ways to do so that avoid spoiling food plant
 <img src="{{ GALLERY_PATH }}/gardening/seedlings_illustration.png" />
 Tomato seedlings, once potted and grown out a little, make superb gifts. People tend to feel something you have grown and cared for a lot more meaningful than some consumer plastic rubbish bought in a rush in a supermarket. They have the added bonus of being quite a frugal gift too.
 
-<img src="http://static.squidoo.com/resize/squidoo_images/132/draft_lens2061916module35372372photo_5_1243065178SeedlingGift.jpg" style="float: left; margin-right:10px" alt="Tomato Seedlings" />This also gives the opportunity of introducing yet another person to the idea of planting and growing their own food, although when given, plenty of advice should be on hand and given too.
+![Tomato Seedlings](/galleries/gardening/SeedlingGift.jpg){: style="float: left; margin-right:10px" }This also gives the opportunity of introducing yet another person to the idea of planting and growing their own food, although when given, plenty of advice should be on hand and given too.
 
 Even better is when these plants can be exchanged - you give someone a couple of tomato seedlings, they give you a few chilli, or strawberry seedlings. Home grown plants like this will be sturdier than supermarket growing plants because they will have been lovingly cared for and tended to.
 
@@ -179,8 +179,8 @@ A few weeks on and the receiver will still be thinking about plants, and they wi
 
 I've a special place in my stomach for home grown tomatoes. I love the tiny ones and the really big fat ones too. I love growing my own when I've space for them too!
 
-<a class="img" href="http://www.squidoo.com/plantpestcontrol" onclick="evTrack('Lens', 'FeaturedLenses', 'FeaturedLenses')">
-  <img src="http://i1.squidoocdn.com/resize_smart/squidoo_images/120/120/lens2144065_1220597626SundewBehindChives.jpg" alt="organic food plant pest control"/>
+<a href="http://www.squidoo.com/plantpestcontrol">
+  ![organic food plant pest control](/galleries/gardening/SundewBehindChives.jpg)
 </a>
   
   <h4 class="margin_bot_5">
@@ -198,7 +198,7 @@ Given a short while, the flowers will either die, or the petals will drop, and a
 If you are lucky, the plant will keep flowering and producing fruit for a while, although as things get colder it will slow down.
 
 <p style="align: center; text-align: center; background-color: lightgray; border: 2px dashed black; padding: 5px 5px 5px 5px">
-<img src="http://static.squidoo.com/resize/squidoo_images/480/draft_lens2061916module35372372photo_2_1243065176Cherry_Tomatoes_Harvest.jpg" alt="1 weeks cherry tomato harvest" />
+![1 weeks cherry tomato harvest](galleries/gardening/Cherry Tomatoes Harvest.jpg)
 <b>Tasty Ripe Cherry Tomatoes</b></p>
 
 <h1>State of my plants: October 2008</h1>
@@ -219,9 +219,12 @@ I have also been having a battle with fungus gnats which have gotten into my pla
 
 <div class="module">
           
-<div class="module_description"><p align="center"><img src="http://static.squidoo.com/resize/squidoo_images/400/draft_lens2061916module35372372photo_1_1243065175TomatoesDivider.jpg" style="margin-bottom: 5px" alt="Close up of flowering tomato plants" /></p><br>
-While surfing around, I have found a number of useful tidbits of info on growing all sorts of stuff, and about tomatoes. While collecting them in my browser bookmarks is a bit helpful, popping them on here means others can benefit and I can read up when online but away from that PC.<br>
-<p style="float: left; margin-right: 10px"><a rel="nofollow" href="http://www.FreeMesa.org/?a=21&amp;p=146&amp;b=2" target="_blank"><img src="http://www.freemesa.org/img.php?b=2&amp;p=146" border="0" alt="FreeMesa.org - Free Stuff from the Community, To the Community. All for free."></a></p></div>
+<div class="module_description"><p align="center">
+![Close up of flowering tomato plants](/galleries/gardening/TomatoesDivider.jpg"){: style="margin-bottom: 5px"} </p>
+
+While surfing around, I have found a number of useful tidbits of info on growing all sorts of stuff, and about tomatoes. While collecting them in my browser bookmarks is a bit helpful, popping them on here means others can benefit and I can read up when online but away from that PC.
+
+<p style="float: left; margin-right: 10px"><a href="http://www.FreeMesa.org/?a=21&amp;p=146&amp;b=2" target="_blank"><img src="http://www.freemesa.org/img.php?b=2&amp;p=146" border="0" alt="FreeMesa.org - Free Stuff from the Community, To the Community. All for free."></a></p></div>
 <dl>
 <dt>
   <a href="http://www.squidoo.com/howtoselfwateringplantpotexperiment">HOWTO: Self watering plant pot experiment</a>
@@ -258,5 +261,4 @@ Understanding this will allow you to improve the growth of your own fruits and f
   <a href="http://whatcom.wsu.edu/ag/compost/wormbins.htm">Build a wooden worm compost bin</a>
 </dt>
   <dd>This is details on building a composting worm bin with wood - more solid than the tupperware one, but with only one tier it is perhaps less sophisticated.</dd></dl>
-
-        </div>
+</div>
