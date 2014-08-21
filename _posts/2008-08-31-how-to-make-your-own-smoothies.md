@@ -3,7 +3,6 @@ layout: post
 title: HOWTO: Make your own smoothies
 tags: [food]
 ---
-
 ![](/galleries/2008-08-31-how-to-make-your-own-smoothies/title-image.jpg)
 
 Bottle supermarket Smoothies can be expensive to buy - they cost at least 2 or 3 times as much to buy as it would to make your own. Any household looking to eat well should always have a stocked fruit bowl, fruit is not only relatively cheap, but it is a much healthier snack than crisps, cakes and sweets. When it gets a little over-ripe, then pop it into a smoothie.
