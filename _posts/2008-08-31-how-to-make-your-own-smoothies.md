@@ -1,5 +1,5 @@
 ---
-title: HOWTO: Make your own smoothies
+title: HOWTO Make your own smoothies
 layout: post
 tags: [food]
 ---
