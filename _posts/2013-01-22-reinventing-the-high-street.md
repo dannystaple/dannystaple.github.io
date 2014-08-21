@@ -39,9 +39,10 @@ Games are now going fully online – with Steam changing the way games were deli
 It is not hard to see now how media like music, films and games no longer require the high street to be traded, and that these High Street retailers were doomed. However – it doesn’t end with media…
 
 # How Supermarkets became Online Groceries
+
 ## And the Reappearance of Food Boutiques
 
-![](/galleries/2013-01-22-reinventing-the-high-street/richmond-boutiques.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/richmond-boutiques.gif)
 
 Grocery shopping, apart from the odd top up, or the premium farmers market type goods, has become almost an exclusively online activity for me.
 
