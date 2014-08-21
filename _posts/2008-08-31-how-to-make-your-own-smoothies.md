@@ -26,7 +26,7 @@ Fruit - you can use fruit that is slightly past its prime for this. Bruised or d
 
 # Choosing fruit, veg and other ingredients
 
-![](/galleries/2008-08-31-how-to-make-your-own-smoothies/fruits-for-smoothie.jpg)
+![](/galleries/2008-08-31-how-to-make-your-own-smoothies/-fruits-for-smoothie.jpg)
 
 You then need to choose the fruit. Bananas go well with summer berries like strawberries, blueberries etc. 
 
@@ -76,7 +76,7 @@ Pineapple - fresh pineapple can be difficult to skin, and I will admit my wife u
 
 Cooked beetroot is easiest, simple slice it up and drop it in. Fresh beetroot needs to be thoroughly cleaned, then skinned and sliced before it can go in.
 
-To add &amp;quot;zing&amp;quot; to a smoothie, a chunk of root ginger can be chopped and blended in. This is even more effective if you make a paste of it with a mortar and pestle or a small herb blender before adding it. With tastes like ginger, surface area is fairly important for getting it to diffuse through the mix, and not merely be chunks of ginger.
+To add zing to a smoothie, a chunk of root ginger can be chopped and blended in. This is even more effective if you make a paste of it with a mortar and pestle or a small herb blender before adding it. With tastes like ginger, surface area is fairly important for getting it to diffuse through the mix, and not merely be chunks of ginger.
 
 Basil - surprisingly basil can go well in a smoothie, although this needs to be fresh basil not the dried type. The best kind of basil to use for this is basil you have grown yourself. Alternatively, buy a growing pot, and use the very topmost leaves.
 
