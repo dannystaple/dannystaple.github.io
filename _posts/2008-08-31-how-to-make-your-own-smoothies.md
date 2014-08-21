@@ -1,6 +1,6 @@
 ---
-layout: post
 title: HOWTO: Make your own smoothies
+layout: post
 tags: [food]
 ---
 ![](/galleries/2008-08-31-how-to-make-your-own-smoothies/title-image.jpg)
