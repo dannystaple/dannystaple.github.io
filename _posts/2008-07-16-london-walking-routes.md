@@ -48,7 +48,7 @@ While no additional kit is required, beyond you and your feet, you can do much t
 
 # What do I mean by "Join The Dots"?
 
-![Joining the dots](/galleries/2008-07-16-london-walking-routes/join-tube-dots.jpg)
+![Joining the dots](/galleries/2008-07-16-london-walking-routes/join-tube-dots.png)
 
 Most people only know London by the tube stations. Generally, they get around using only this, and the occasional bus.
 
@@ -58,7 +58,7 @@ Joining dots like that not only allows you to experience more of London, but to 
 
 # My Favourite Walks
 
-![Monument - it has a lot of stairs!](monument-london.jpg)
+![Monument - it has a lot of stairs!](/galleries/2008-07-16-london-walking-routes/monument-london.jpg)
 
 Holland Park is a favourite that has become part of my daily commute. This beautiful park has plenty to enjoy.
 
