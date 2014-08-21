@@ -69,7 +69,7 @@ Premium Bookshops are another business that are under attack from the internet â
 # Further Reading on the Changing High Street
 I have scratched the surface on this subject. The subject of economics, how we shop and why we shop generated a lot of material to read, but with the way the world is changing, there are authors exploring this change far deeper than I am with insights on how they think the future will play out. I am not an economist - I am a technologist and so I tend to see the future through a shiny-blue LED encrusted lens. Some of these writers are.
 
-[Is it game over for UK retail? | Larry Elliott | Business | guardian.co.uk](http://www.guardian.co.uk/business/economics-blog/2013/jan/18/game-over-uk-retail-wages-jobs) - Talks about the decline of the Bricks and mortar stores, but missed the point about internet sales growth.
+[Is it game over for UK retail? &#124; Larry Elliott &#124; Business &#124; guardian.co.uk](http://www.guardian.co.uk/business/economics-blog/2013/jan/18/game-over-uk-retail-wages-jobs) - Talks about the decline of the Bricks and mortar stores, but missed the point about internet sales growth.
 
 # The Rise of Crafting Hobbies
 
