@@ -1,6 +1,7 @@
 ---
 title: The Reckless Machine
 layout: post
+tags: [machine, innovation]
 ---
 # Imagine with me for a moment...
 
