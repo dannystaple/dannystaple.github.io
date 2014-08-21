@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Reinventing the High Street
+tags: [economy, future]
 ---
 # Why The High Street Needs To Change
 
-![](title-woolworths.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/title-woolworths.jpg)
 
 As of the start of 2013, the tales of economic gloom are everywhere except for one place - the internet businesses.
 High streets around the world - for me - visibly in the Uk are being decimated. Shops are closing pretty rapidly, being replaced either by pound shops, or food/beverage outlets.
@@ -23,7 +24,7 @@ Do you think this is the end of the high street? Do you think it must change? Or
 
 # What happened to Woolworths, HMV and Game
 
-![](compact-disks.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/compact-disks.jpg)
 
 Woolworths is probably one of the most notable High Street brands to disappear at the start of the economic downturn that was known then as the credit crunch. However, from the first day I heard of its impending doom – I do not accept that it was simply down to people having less money to spend.
 
@@ -40,7 +41,7 @@ It is not hard to see now how media like music, films and games no longer requir
 # How Supermarkets became Online Groceries
 ## And the Reappearance of Food Boutiques
 
-![](richmond-boutiques.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/richmond-boutiques.jpg)
 
 Grocery shopping, apart from the odd top up, or the premium farmers market type goods, has become almost an exclusively online activity for me.
 
@@ -54,7 +55,7 @@ This is a place where parts of the high street are being reinvented. Where the s
 
 # The Growth Of The Coffee Shops In The Uk
 
-![](coffee-cup.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/coffee-cup.png)
 
 The British Pub, despite facing setbacks, is a huge part of British culture – a sociable meeting place for drinking, sharing some atmosphere, with the best being places where you become familiar with the staff and the other punters – for some, another living room. It is a culture that has alcohol, and the usage of this is actually in decline – with people wanting a place to go out and be sociable, but not all of them want to drink and because of the migration of populations, not all of them are permitted to. The Pub has reinvented itself somewhat – with the idea of Gastropubs – places to have a beer, be sociable and eat great food. They have lost a little of being the village centre, but those that are good have gained too. However, this decline leaves room for something not altogether new, but definitely on the rise – coffee shops.
 
@@ -71,7 +72,7 @@ I have scratched the surface on this subject. The subject of economics, how we s
 
 # The Rise of Crafting Hobbies
 
-![](hackspace-charlotte.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/hackspace-charlotte.jpg)
 
 The Internet has changed many other things. People are beginning to rediscover old hobbies, and reinvent them. They are sharing their geekery with each other – with all kinds of technical and home crafts gaining footing with huge communities. Publications and blogs on them, along with groups on Facebook, Twitter and just plain chat boards have brought communities together, and then they started to make it physical.
 
