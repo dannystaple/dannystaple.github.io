@@ -5,7 +5,7 @@ tags: [economy, future]
 ---
 # Why The High Street Needs To Change
 
-![](/galleries/2013-01-22-reinventing-the-high-street/title-woolworths.jpg)
+![](/galleries/2013-01-22-reinventing-the-high-street/title-woolworths.jpeg)
 
 As of the start of 2013, the tales of economic gloom are everywhere except for one place - the internet businesses.
 High streets around the world - for me - visibly in the Uk are being decimated. Shops are closing pretty rapidly, being replaced either by pound shops, or food/beverage outlets.
