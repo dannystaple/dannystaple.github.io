@@ -5,7 +5,7 @@ tags: [food, christmas]
 ---
 # Cheese and Crackers - How to Serve this Fine British Traditional Food
 
-![this lens' photo](cheese-and-cracker-with-pickle.jpg)
+![this lens' photo](/galleries/2008-12-23-crackers-and-cheese-christmas-snacking/cheese-and-cracker-with-pickle.jpg)
 
 This traditional serving is fairly tasty, versatile and can go down well on many occasions. It is a personal favourite, which I thoroughly enjoy when I allow myself to have it.
 
