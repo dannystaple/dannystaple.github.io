@@ -5,7 +5,7 @@ tags: [social issues]
 ---
 # Being Gay is Still The Topic De Jour - a Big Issue.
 
-![](Pink_triangle.png)
+![](/galleries/2009-03-01-the-gay-issue/Pink_triangle.png)
 
 The issue of homosexuality is still a big thing for some. For others it is done and dusted, they no longer think it is an issue and are happy to let it be. The number accepting it are growing, but there is still plenty of debate, prejudice and controversy on this subject. Gay marriage has thrust it further into the limelight, with different nations and states choosing to rule differently on this, the time to debate it is most definitely now.
 
