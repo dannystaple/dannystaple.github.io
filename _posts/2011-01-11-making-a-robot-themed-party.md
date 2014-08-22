@@ -60,7 +60,7 @@ On all boards – take one surface, and tape along each of the long edges. Try t
 
 ## Patterns for the arena boards
 
-![](/galleries/2011-01-11-making-a-robot-themed-party/-patterns-for-the-arena-boards.jpg)
+![](/galleries/2011-01-11-making-a-robot-themed-party/-patterns-for-the-arena-boards.png)
 
 Use the image for pattern ideas. The basic idea is by having straight parts on one side and some corners on the others, you have a versatile kit suitable for many different spaces.
 
