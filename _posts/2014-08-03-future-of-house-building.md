@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: The future of House Building is 3d
 tags: [3d printing, future manufacturing, housing]
 ---
