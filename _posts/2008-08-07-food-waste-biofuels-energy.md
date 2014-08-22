@@ -36,9 +36,10 @@ Electricity can be produced from Nuclear power as an alternative to oil and gas,
 The energy crunch is a real problem, and it is probably here to stay – the increasing fuel prices will eventually drive us to find other ways to power our lives, or reduce the power we consume.
 
 # Issues to Consider
+
 ## Food Waste
 
-![Waste Heap Image](waste_heap.svg)
+![Waste Heap Image](/galleries/2008-08-07-food-waste-biofuels-energy/waste_heap.png)
 
 The food waste (and other waste) mountains at the landfills are growing, and threatening to release a lot of stinking gas into the atmosphere, with the immediate threat of smelly pollution, and the longer term threat of producing greenhouse gases that significantly contribute to climate change.
 
@@ -52,7 +53,7 @@ Photographic Print">Murray, Louise</a>
 
 ## Peak oil vs consumption
 
-![Fuel Consumption Empty Glass](fuel-consumption-empty-glass.svg)
+![Fuel Consumption Empty Glass](/galleries/2008-08-07-food-waste-biofuels-energy/fuel-consumption-empty-glass.png)
 
 Fuel consumption has been rising with steady growth of 7% annually. Calculating what that actually means, this is a doubling time of 10 years. This means that every 10 years, our fuel consumption has doubled. Even ignoring global warming, we are dangerously close to this being disastrous.
 
@@ -93,7 +94,7 @@ Secondly – the more we use this technology, the greater the volume in which it
 
 # Web of food and fuel
 
-![food web fuel availability image](food-fuel-web.png)
+![food web fuel availability image](/galleries/2008-08-07-food-waste-biofuels-energy/food-fuel-web.png)
 
 Food availability and prices, fuel, waste, household wealth are linked in a web and all affect each other. Where there is a “+”, there is a positive relationship, where there is a “-”, there is a negative relationship.
 
@@ -127,7 +128,7 @@ Photovoltaic solar panels are not that efficient, and give people the impression
 # Exactly where will we grow food
 ## Is there enough land or resources to grow all we need?
 
-![](food-vs-money.png)
+![](/galleries/2008-08-07-food-waste-biofuels-energy/food-vs-money.png)
 
 The subtitle there is a loaded question, as the first thing to seriously consider is that we consume more food than we need. When I say consume, I will take it to mean no longer available for use – this includes that which is wasted.
 
