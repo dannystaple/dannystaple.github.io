@@ -126,6 +126,7 @@ Photovoltaic solar panels are not that efficient, and give people the impression
 <iframe width="560" height="315" src="//www.youtube.com/embed/z0_nuvPKIi8" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 # Exactly where will we grow food
+
 ## Is there enough land or resources to grow all we need?
 
 ![](/galleries/2008-08-07-food-waste-biofuels-energy/food-vs-money.png)
