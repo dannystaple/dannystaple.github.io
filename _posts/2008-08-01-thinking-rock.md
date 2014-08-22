@@ -1,6 +1,7 @@
 ---
 title: HOWTO Use ThinkingRock to organise your thoughts
 tags: [GTD, computers, apps]
+layout: post
 ---
 
 Note from 2013 - I use Evernote now where I did use ThinkingRock
