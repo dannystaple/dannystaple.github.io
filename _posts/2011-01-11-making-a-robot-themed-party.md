@@ -60,7 +60,7 @@ On all boards – take one surface, and tape along each of the long edges. Try t
 
 ## Patterns for the arena boards
 
-![](-patterns-for-the-arena-boards.jpg)
+![](/galleries/2011-01-11-making-a-robot-themed-party/-patterns-for-the-arena-boards.jpg)
 
 Use the image for pattern ideas. The basic idea is by having straight parts on one side and some corners on the others, you have a versatile kit suitable for many different spaces.
 
@@ -68,7 +68,7 @@ I also had some shorter boards for goal areas and tighter sumo events.
 
 # Robot building kits
 
-![](-lego-robot-from-event.jpg)
+![](/galleries/2011-01-11-making-a-robot-themed-party/-lego-robot-from-event.jpg)
 
 I found by far the easiest thing for this is Lego. Kids love Lego, and it transports well. The only minor problem is that you may loose 1 or 2 pieces.
 
