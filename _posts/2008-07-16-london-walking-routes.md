@@ -164,6 +164,10 @@ You can take in much of London by starting at Tottenham Court Road, going down t
 
 Following Oxford Street down, you will pass Bond Street, and then later come on to Marble Arch and Park Lane, where you will see Harrods and The Ritz Hotel, this eventually leads you to Hyde Park or Bayswater Road, further takes you to Bayswater and the shopping centre there.
 
+# Me and London
+
+I have lived in London since 1997, staying in different parts and thoroughly enjoying the centre of London - both as a regular commuter working there, as a tourist type enjoying museums and sights, and also the nightlife too. I like to get out and walk a fair bit so I can really get to know an area.
+
 # Image Sources
 Tower bridge and Holland Park photos taken by myself with a Nokia N73.
 
