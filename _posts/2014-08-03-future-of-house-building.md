@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The future of House Building is 3d
-tags: [3d printing, future manufacturing, housing]
+tags: [3d printing, future manufacturing, housing, future]
 ---
 Housing is expensive, and shanty towns can be found in much of the world. 3D printing may be used to start being able to make houses that are considerablyu more affordable, more structurally sound, more structurally interesting while better conforming to building regulations and requirements of residents.
 
