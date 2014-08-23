@@ -108,7 +108,7 @@ For eating, you have a large choice of Mexican, Chinese, Japanese, Indian and It
 
 #### Shepherds Bush
 
-![The Westfield Shopping Centre, Shepherds Bush - Licensed under CC-SA from wikipedia.](galleries/2010-02-16-making-the-most-of-west-london/-Westfield-shopping-centre.JPG)
+![The Westfield Shopping Centre, Shepherds Bush - Licensed under CC-SA from wikipedia.](/galleries/2010-02-16-making-the-most-of-west-london/-Westfield-shopping-centre.JPG)
 This shopping centre in Shepherds Bush has so much going for it. Firstly it is a centre of fashion, with some of the greatest names concentrated there offering huge choice and variety. There are a selection of boutiques for food, gadgets, baby accessories and toys.
 
 Also there is a huge selection of restaurants, cafe's and bars to complement a day out, and a Cinema with large screens showing the latest films, including 3D ones.
