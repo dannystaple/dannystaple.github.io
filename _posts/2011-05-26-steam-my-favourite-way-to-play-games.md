@@ -4,6 +4,7 @@ title: Steam - My favourite way to play non-free games
 tags: [gaming, computers]
 ---
 ![](/galleries/2011-05-26-steam-my-favourite-way-to-play-games/-screenshot-of-the-steam-portal.jpg)
+
 Over the years, I've played games since they were collections of cassette tapes or cartridges, through to shelves of Floppies and then later the same with CD's/DVD's.
 
 Games generally took up quite a bit of precious space in my flat, and time to actually install. Installing a game would mean having to rummage to find a game disk, search for the manual to get the license key to install it on a new computer, rummage to find the second disk, and then find out that one of them was damaged.
