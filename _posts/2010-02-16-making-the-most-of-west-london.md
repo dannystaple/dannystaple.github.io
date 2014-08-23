@@ -59,7 +59,7 @@ To see photos and more detail, take a look at [the link](holland-park.html).
 
 # Wembley National Stadium
 
-![](wembley-national-stadium.jpg)
+![](/galleries/2010-02-16-making-the-most-of-west-london/-wembley-national-stadium.JPG)
 
 One area of West London that receives a great deal of attention is the new rebuilt Wembley Stadium. It is a truly magnificent building, and being residents of West London, we had the privilege of being some of the first to visit and see a couple of simple friendly football (Soccer) games there.
 
