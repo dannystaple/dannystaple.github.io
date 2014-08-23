@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Jules Verne Mysterious Island
 tags: [book, fiction, science fiction, pirate]
 ---
