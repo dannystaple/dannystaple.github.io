@@ -3,7 +3,7 @@ layout: post
 tags: [london]
 title: Making The Most Of West London
 ---
-![Northolt In Bloom](northolt-in-bloom.jpg)
+![Northolt In Bloom](/galleries/2010-02-16-making-the-most-of-west-london/-northolt-in-bloom.jpg)
 
 West London covers a sprawling area, from the West End and Westminster, right the way out to Uxbridge in Middlesex, and parts of Surrey. For travellers to London, they often find the pace of much of London to be a little on the fast side, but as you go out to the West, you will find it slows down a little, becomes more green, and you will find many pleasant local communities.
 
@@ -75,7 +75,7 @@ As local residents we were invited to try out the stadium pre-opening, and found
 
 ## Where to get free tickets to watch live BBC shows
 
-![BBC Television Centre](bbc-tvc.jpg)
+![BBC Television Centre](/galleries/2010-02-16-making-the-most-of-west-london/-BBC-TV-Centre.jpg)
 
 White City is the home of the BBC, with their Television Centre being the centre of the area, along with its lesser known Media Village buildings.
 
@@ -108,7 +108,7 @@ For eating, you have a large choice of Mexican, Chinese, Japanese, Indian and It
 
 #### Shepherds Bush
 
-![The Westfield Shopping Centre, Shepherds Bush - Licensed under CC-SA from wikipedia.](westfield-shopping-centre.jpg)
+![The Westfield Shopping Centre, Shepherds Bush - Licensed under CC-SA from wikipedia.](galleries/2010-02-16-making-the-most-of-west-london/-Westfield-shopping-centre.JPG)
 This shopping centre in Shepherds Bush has so much going for it. Firstly it is a centre of fashion, with some of the greatest names concentrated there offering huge choice and variety. There are a selection of boutiques for food, gadgets, baby accessories and toys.
 
 Also there is a huge selection of restaurants, cafe's and bars to complement a day out, and a Cinema with large screens showing the latest films, including 3D ones.
