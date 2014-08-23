@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [robots, kids]
-title: Five Amazing Educational robot kits for kids
+title: Fun and Amazing Educational robot kits for kids
 ---
 ![](/galleries/2010-11-22-educational-robot-kits-for-kids/-robot-kits-for-big-kids-.jpg)
 
