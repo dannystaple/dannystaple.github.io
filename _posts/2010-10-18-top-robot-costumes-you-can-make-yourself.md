@@ -23,6 +23,9 @@ The Instructables user AlexTheMovieGeek has created this stunning costume and ki
 * [More info on Powerloader - specs and detail](http://orionrobots.co.uk/Power+Loader)
 * [Another Powerloader Costume](http://www.instructables.com/id/Aliens-Powerloader-Halloween-Costume-1/) - a  somewhat more complicated version
 
+<div class="row"><div class="span4"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=orionrobots-21&marketplace=amazon&region=GB&placement=B00HNJSU1W&asins=B00HNJSU1W&linkId=&show_border=true&link_opens_in_new_window=true" float="left">
+</iframe></div><div class="span8">Watch my favourite masterpiece, Cameron and Geigers work in Aliens. Game over man, game over!</div></div>
+
 # Build a terminator Mask
 
 ![](/galleries/2010-10-18-top-robot-costumes-you-can-make-yourself/DIY-Terminator-Mask.jpg)
@@ -34,11 +37,11 @@ Materials required include a Red LED and battery (easily found in LED torches), 
 
 * [DIY Terminator Mask](http://www.instructables.com/id/DIY-Terminator-Mask/)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=orionrobots-21&marketplace=amazon&region=GB&placement=B00FJYTTD6&asins=B00FJYTTD6&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe> This full on mask is sure to give a few people a scare - those who are old enough to have seen the film, and those young enough not to have seen anything like it. Now you just need to get the terminator walking moves right!
+<div class="row"><div class="span4"><iframe style="width:120px;height:240px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=orionrobots-21&marketplace=amazon&region=GB&placement=B00FJYTTD6&asins=B00FJYTTD6&linkId=&show_border=true&link_opens_in_new_window=true" float="left">
+</iframe></div><div class="span8">You could alos by a full on T800/T600 mask which is sure to give a few people a scare - those who are old enough to have seen the film, and those young enough not to have seen anything like it. Now you just need to get the terminator walking moves right!</div></div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=orionrobots-21&marketplace=amazon&region=GB&placement=B001KPOJVU&asins=B001KPOJVU&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe> Wear this for added realism - pop it round a door and follow up with the mask! Now practice "I'll be Back!"
+<div class="row"><div class="span4"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=orionrobots-21&marketplace=amazon&region=GB&placement=B001KPOJVU&asins=B001KPOJVU&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe></div><div class="span8">Wear the terminator arm or fist for added realism - pop it round a door and follow up with the mask! Now practice "I'll be Back!"</div></div>
 
 # General Grievous Costume
 
