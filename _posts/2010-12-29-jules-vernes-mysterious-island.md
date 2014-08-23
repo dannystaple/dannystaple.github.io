@@ -59,5 +59,5 @@ This rendering is actually quite poor, despite having some great acting. First -
 
 Then there is the story. They've used the character names, and brought in some of the basic concepts - Captain Nemo, Cyrus Smith, pirates, Island Giants and a volcanic eruption. But they've left out the intrigue, the people surviving the elements and innovating and turned this into a basic action romp on an Island. 
 
-Frankly - if you've read the book - dont watch this expecting a similar rendition. If you've not, you'd probably turn off the program within the first half hour as it just doesn't do enough to be worth watching through.
+Frankly - if you've read the book - don't watch this expecting a similar rendition. If you've not, you'd probably turn off the program within the first half hour as it just doesn't do enough to be worth watching through.
 
