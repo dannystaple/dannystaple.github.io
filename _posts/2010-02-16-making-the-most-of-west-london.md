@@ -49,7 +49,7 @@ The only thing I'd not recommend is the food. This is great for drinking, and si
 
 # Holland Park
 
-This is a gem of a park that can be found between Olympia, Shepherds Bush, Notting Hill and High Street Kensington, putting it on the Central, Circle and District Lines. It has it&amp;#039;s own Tube Station, and has attractions like its Opera House, as well as being bordered by a selection of good places to eat and drink.
+This is a gem of a park that can be found between Olympia, Shepherds Bush, Notting Hill and High Street Kensington, putting it on the Central, Circle and District Lines. It has it's own Tube Station, and has attractions like its Opera House, as well as being bordered by a selection of good places to eat and drink.
 
 The park has a serene Japanese garden, balancing stillness and movement with ornate stones and Koi Carp. There are free roaming fowl including Peacocks, Moorhens and others, as well as Squirrels. You will find seasonal flower gardens, and enough long term forested areas to find bluebells in the right season.
 
@@ -89,7 +89,7 @@ West London has a number of pleasant shopping spots. They are also all easy to g
 
 ## Shopping in Hammersmith
 
-Hammersmith Tube station (on the Picadilly, District and Central Lines) shares a space with the Broadway Shopping Centre. While the centre itself is not at the scale of Westfield, it has a respectable number of smaller shops, and step outside onto King Street where you will find many more shops, including smaller specialist shops.
+Hammersmith Tube station (on the Piccadilly, District and Central Lines) shares a space with the Broadway Shopping Centre. While the centre itself is not at the scale of Westfield, it has a respectable number of smaller shops, and step outside onto King Street where you will find many more shops, including smaller specialist shops.
 
 Hammersmith also hosts a Farmers Market in Lyric Square every Thursday, so time to top up on extra special cheeses, or organic fresh fruit and veg!
 There are lovely spots to eat, and I strongly advise to visit some of the pubs on the riverside for a pleasant drink.
