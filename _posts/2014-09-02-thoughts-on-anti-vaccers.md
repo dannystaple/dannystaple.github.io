@@ -23,10 +23,13 @@ In current affairs, the very unheard of TTIP trade agreement is a serious breach
 
 TTIP intends to remove trade laws and services in the public good for the benefit of large corporations. 
 
+[![](http://www.nottip.org.uk/wp-content/noTTIP_Header.png)](http://www.nottip.org.uk/)
+
 You could also fight the copyright, libel and censorship laws that are used to stifle innovation, to silence critics and to control information.
 
 Fight policies made without evidence that are authoritarian for no good reason and contradict advice given by evidence driven experts.
 
 We are not saying trust the politicians, we also think they are liars with their hands in the till. We are saying that this thing, the free vaccines, are worth taking, are evidence based, and politicians would be only too happy to take this away to save money if they could get away with doing so.
 
-![](https://www.battleforthenet.com/images/share_images/battle3.png)
+[![](https://www.battleforthenet.com/images/share_images/battle3.png)](https://www.battleforthenet.com/)
+
