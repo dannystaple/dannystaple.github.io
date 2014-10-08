@@ -3,6 +3,8 @@ layout: post
 title: Programming Rants - PEP 370
 tags: [python, programming, rants]
 ---
+There are things that infurate me when coding - things that aren't quite right. I could be wrong, I'm willing to learn, but this is stuff that annoys me.
+
 # What kind of things annoy me?
 
 When programming - this stuff generally annoys me:
