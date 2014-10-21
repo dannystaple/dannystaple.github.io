@@ -18,7 +18,7 @@ I am a bit of a foodie - although I'd like to be a lighter one!
 
 I have some interest in ethics, philosophy and politics - but try not to get too hung up about them as most people have already made up their minds and cannot change. My closest political description is I am passionate skeptic - I like things that are evidence based, and generally let people be. Believe what you want - just don't make it my problem.
 
-This site collects together musings I have once written on other sites, and will collect those I write that are related to neither robots or computer programming.
+This site collects together musings I've written on other sites, and will collect those I write that are related to neither robots or computer programming.
 
 <ul class="posts">
   {% for post in site.posts %}
