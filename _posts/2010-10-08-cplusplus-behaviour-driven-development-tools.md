@@ -1,10 +1,19 @@
 ---
 layout: post
 title: C plus plus Behaviour Driven Development tools
-tags: [programming, coding, cplusplus, testing, tdd, bdd, tools]
+tags: [programming, coding, cplusplus, testing, tdd, bdd, tools, development, software, behaviour driven development, unit testing]
 ---
 ![](/galleries/2010-10-08-cplusplus-behaviour-driven-development-tools/-behaviour-driven-clarity.jpg)
+C++ is still considered one of the most powerful and flexible tools for making fast software, especially where other systems like Python, Java or Ruby are not available.
 
+Behaviour Driven Development is a current practice in programming that is changing the way coders are thinking, bringing testing, coding and design closer together, the theory being that things get done right and work sooner, instead of nearly working, being not quite what anybody wanted, and having very little to measure against.
+
+A set of Behaviour specifications, such as the type built with the tool Rspec, growing as functionality is schedule to be introduced to a product, gives a specification that can be run against the code, show where it is deficient, and when other features, or changes are introduced, can quickly highlight a regression. A regression caught as it was created should be relatively easy to find. A regression caught a few months later in end-of-product testing will be much harder to fix, when there is nearly no time left to fix it.
+
+So Behaviour Driven Development is about quality, about confidence in the code doing what it should, about clear communication about what it should be doing so that the tester, coder and designer are all talking in the same language.
+
+C++ is currently less developed in this realm than Ruby or Java, but it is catching up. These tools are being created, and probably need to borrow a little from each other as well as support from both the C++, BDD and Test Driven Development community to start to flourish. They will need to be linked up with CI systems like Hudson or Cruise Control to really fly, but as they are, embryonic, CppSpec and Igloo can both give value to a product.
+<hr>
 What is behaviour driven development (BDD)? It is a method for developing software where the behaviour of a bit of code, or an app, is described first, in a formal but as plain english way as possible. This description, or specification actually forms an executable set of tests against the software, so initially, they would fail, but as the software is built by programmers, these will start to pass. If the software needs to be refactored, then it would be assumed that these specifications of behaviour should still pass. If a new team member needs to understand what some code should do, they need only look at this specification to see. Then for them to know how much of this it does do, they can run this specification and see the the result.
 
 BDD has evolved from a few disciplines in software practice. Those include the unit testing, evolving into TDD (Test Driven Development), and the automation of many tests. It comes from bringing testers, and product designers back in close to development teams and encouraging these team members to start speaking the same language, by keeping the language as plain as possible. In terms of automation, BDD frameworks fit into CI frameworks so the set of specifications can be run on code on a regular basis, a team can then see feedback on their progress, and quickly be aware of any regressions. For a developer, running the specs on their own desk gives them a quick scaffold to build their code in. For a developer to start thinking and writing specs, in the plain English and using the right words - like "This thing should say hello", it both closes communication gaps between them and the rest of the team, and means that the code itself starts to be more readable and maintainable.
