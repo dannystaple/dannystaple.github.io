@@ -3,7 +3,7 @@ layout: post
 title: Programming Rants - PEP 370
 tags: [python, programming, rants]
 ---
-There are things that infurate me when coding - things that aren't quite right. I could be wrong, I'm willing to learn, but this is stuff that annoys me.
+There are things that infuriate me when coding - things that aren't quite right. I could be wrong, I'm willing to learn, but this is stuff that annoys me.
 
 # What kind of things annoy me?
 
@@ -17,9 +17,9 @@ When programming - this stuff generally annoys me:
 
 # Who am I to complain?
 
-I am computer programmer professionally, and have been for over a decade. I've been working professionally with Python solidly for about 5 years, and with other languages and tools since 2000. I studied Applied Computing and AI at uni, and I've been coding since I was 8 with the Commodore 64 and a speccie. I preferred the 64 - superior graphics, but I hated its BASIC variant. As a kid I'd always wanted the beeb BASIC variant, with the 64's sprite system. I loved the Amiga's.
+I am computer programmer professionally, and have been for over a decade. I've been working professionally with Python solidly for about 5 years, and with other languages and tools since 2000. I studied Applied Computing and AI at uni, and I've been coding since I was 8 with the Commodore 64 and a speccie. I preferred the 64 - superior graphics, but I hated its BASIC variant. As a kid I'd always wanted the Beeb (BBC Micro) BASIC variant, with the 64's sprite system. I loved the Amiga's.
 
-I liked embedding assembly in BASIC and into C, until in about 1998 I released how unmaintainable that makes stuff, and that probably it belongs to driver code and gaming inner loops. Although C will normally do.
+I liked embedding assembly in BASIC and into C, until in about 1998 I released how unmaintainable that makes stuff, and that probably it belongs to driver code and gaming inner loops. Although C will normally do. After that - I generally disliked the practice.
 
 I've professionally written console games, database apps, web sites/web apps, Set top box apps. I've unprofessionally programmed phones, microcontrollers (more AVR/Arduino than PIC) on robots, games, web apps and scratched itches with code.
 
