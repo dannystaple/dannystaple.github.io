@@ -7,7 +7,7 @@ After playing with the cloud 9 idea for a couple of days, I decided that I still
 
 However, how could I get the linux Jekyll experience, without reinstalling the vm, so running the ide natively on Windows?
 
-I decided to explore the remote editing/sync feastures of pycharm.
+I decided to explore the remote editing/sync features of pycharm.
 
 1. Ensure ssh is set up on the vm
 2. In pycharm, set up the sync directory - click tools, deployment, configuration, then add one. 
@@ -23,4 +23,7 @@ You will now be able to point your browser at the output from Jekyll, and as you
 
 I would like to make sure that the output from Jekyll is available locally - I can ssh in and see the nohup.out file, but it would be nice to integrate that more into pycharm.
 
-Also - it would be great if the VM would automatically start jekyll, as I have a couple of Jekyll based sites, I can almnost visualise a runner with a couple of named directories and port numbers, starting jekyll on all of them. Maybe something set up to run with initd so I only need to start the VM headlessly, and it will start funcitoning correctly.
+Also - it would be great if the VM would automatically start jekyll, as I have a couple of Jekyll based sites, I can almost visualise a runner with a couple of named directories and port numbers, starting jekyll on all of them. Maybe something set up to run with initd so I only need to start the VM headlessly, and it will start functioning correctly.
+
+A certain amount of this is moot when minor site tweaks can be made from github directly on a connected device, so I can stick with pycharm when at my laptop. Github has preview built in, and will directly render valid stuff.
+
