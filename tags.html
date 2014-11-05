@@ -17,5 +17,10 @@ group: navigation
   <ul>
     {% assign pages_list = tag[1] %}  
     {% include JB/pages_list %}
+    {% for page in site.pages %}
+        {% if page.tags contains tag[0] %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}
+    {% endfor %}
   </ul>
 {% endfor %}
