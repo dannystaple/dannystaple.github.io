@@ -1,7 +1,7 @@
 ---
 title: MP Meetings and Working People
 layout: post
-tags: [politics]
+tags: [rants, politics]
 ---
 If you are attempting to be involved in local politics, it can be very hard to reconcile this with a full time job.
 
