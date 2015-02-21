@@ -92,7 +92,7 @@ Go at the right time of the year to see Bluebells in Bloom in Holland Park, Lond
 
 Cross over the road named only "Holland Park", and carry on past the houses, and on the right you will see a small bike path, that leads off uphill between the houses.
 
-Follow this path, again past beautiful large houses, and you will see the park on your right. You will pass some of the nature reserve areas of the park, and may here see a squirrel pausing, or even a cat hunting (as I have done). Things are pretty much in character, with even the lamps and signs suited to the place - looking like old gas lamps. You will pass a large school on the left, and you will also pass the Hostel in Holland Park on the Right.
+Follow this path, again past beautiful large houses, and you will see the park on your right. You will pass some of the nature reserve areas of the park, and may here see a squirrel pausing, or even a cat hunting (as I have done). Things are in character, with even the lamps and signs suited to the place - looking like old gas lamps. You will pass a large school on the left, and you will also pass the Hostel in Holland Park on the Right.
 
 As you walk through, you may hear the call of the Peacocks that reside in the park. Continuing along, it gets greener, and the large green is on right, with another row of grand town houses on the left.
 

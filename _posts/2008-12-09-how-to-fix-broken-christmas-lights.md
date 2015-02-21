@@ -213,7 +213,7 @@ Check middle bulb - Pass
 Check middle to first - Pass
 Check middle to last - Fail
 
-In this case we now know that it is between the middle and end. We now have done 7 tests, and have only 120 or so bulbs to check - pretty much halving our work.
+In this case we now know that it is between the middle and end. We now have done 7 tests, and have only 120 or so bulbs to check - halving our work.
 
 check the middle bulb in the last section - pass
 Check section start to middle - pass

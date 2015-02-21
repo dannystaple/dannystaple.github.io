@@ -15,7 +15,7 @@ For a slice of some great night life, and some fabulous restaurants and shopping
 
 In terms of drinking, I'd recommend The Champion, below for its wide selection of beverages, and for eating The Churchill Arms for it's brilliant Thai Kitchen.
 
-Encompassing Portabello Road, it has not only market stalls, but a collection of antique shops rivalled by few other places in the world. It is in this district of London you'd expect to buy an exquisite chandelier, or vintage statuettes. Another thing here are vintage record/CD shops, which buy and sell music, and tucked next to those are retro clothing shops. For even more shopping, you can walk from Notting Hill to High Street Kensington, where there specialist food stores, a few shopping centres, furniture stores, clothes shops and pretty much everything else.
+Encompassing Portabello Road, it has not only market stalls, but a collection of antique shops rivalled by few other places in the world. It is in this district of London you'd expect to buy an exquisite chandelier, or vintage statuettes. Another thing here are vintage record/CD shops, which buy and sell music, and tucked next to those are retro clothing shops. For even more shopping, you can walk from Notting Hill to High Street Kensington, where there specialist food stores, a few shopping centres, furniture stores, clothes shops and everything else.
 
 Notting Hill is the home of the Israeli embassy as well as a number of other grand living places. Even Notting Hill Gate Station, at least on the District Line, has an air of Grandeur and Flair to it, with high vaulted glass ceilings, great arches and hanging globes for lighting.
 

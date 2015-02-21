@@ -22,7 +22,7 @@ It has a few problems, it is not the fastest tool, though notably faster than Zo
 
 This week, I came across something new, and decided to evaluate it for testing - Bitweaver. Bitweaver actually started life as "TikiPro", a fork of Tikiwiki. It is far more modular, and fell out with the tiki maintainer over the use of PhpBB. In my evaluation - I notice it is much faster than tiki because of fewer database hits and optimized code. It only loads or installs the required modules.
 
-So I made sure my test server was up to spec, met all the requirements (since I run a couple of tiki test sites, it was pretty much there already), downloaded Bitweaver1.1, and installed it. I will freely admit, since it is closely related to tikiwiki, and since I am comfortable with tikiwiki - I compared it most closely with tiki.
+So I made sure my test server was up to spec, met all the requirements (since I run a couple of tiki test sites, it was there already), downloaded Bitweaver1.1, and installed it. I will freely admit, since it is closely related to tikiwiki, and since I am comfortable with tikiwiki - I compared it most closely with tiki.
 
 Bitweavers installation was shiny and easy, although, since installation is a rare operation, and I am comfortable installing tikiwiki, I don't consider it that important. Once installed, and clicking around the sample data from the installation - the speed difference between this and tiki running on the same box was quite notable. It is definitely nippier. The only thing that has not undergone a speedup is the search system, which is quite slow, clunky and a little unreliable - a problem shared by the tiki search - and the reason I pair up with a google sitesearch bar.
 

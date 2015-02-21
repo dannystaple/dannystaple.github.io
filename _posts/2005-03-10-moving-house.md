@@ -22,7 +22,7 @@ I have also up and moved <http://orionrobots.co.uk> to a new hosting site. We ar
 * I don't have as much control - but this is something I can deal with.
 * I wont be able to copy over old emails in imap accounts (sorry!) - but they will still be available on serverus.orionrobots.co.uk for those who want them.
 * Due to mysql packet restrictions - I have had to move Steve Hassenplugs movies outside of the site.
-* A couple of days of set-up (we are pretty much done now)
+* A couple of days of set-up
 
 ## The pros:
 * I can turn off the dusty old server and its paraphernalia taking up a substantial part of our lounge - and redistribute or sell its parts.

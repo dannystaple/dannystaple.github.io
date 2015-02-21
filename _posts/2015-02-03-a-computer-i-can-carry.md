@@ -3,7 +3,7 @@ layout: post
 title: Dreaming of portable computers.
 tags: [computers, programming, gaming, phones]
 ---
-Someone missed the 80's - where I pretty much dreamt of a "COMPUTER THAT I CAN CARRY AROUND WITH ME ALL THE TIME". In fact I use this ability WAY more than the bit that is the phone. Frankly I hate being that contactable (although I get into trouble with my wife if I am not). 
+Someone missed the 80's - where I dreamt of a "COMPUTER THAT I CAN CARRY AROUND WITH ME ALL THE TIME". In fact I use this ability WAY more than the bit that is the phone. Frankly I hate being that contactable (although I get into trouble with my wife if I am not).
 
 This is a response to part of [RobertKibble: What's annoying one of my loyal readers this morning? Smartphones. Yes, it's a guest rant](http://robertkibble.blogspot.co.uk/2015/02/whats-annoying-one-of-my-loyal-readers.html).
 
