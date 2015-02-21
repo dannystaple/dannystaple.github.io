@@ -19,7 +19,7 @@ layout: post
 * Anti Static Band - This should be clipped to an earthed item, even the computers case may be used as long as it is plugged in, but switched off. This is so you do not fry the computers parts with the natural static field surrounding your body. You may also get away with not using the band, and regularly grounding yourself by touching an earthed metal area.
 * A good, well lit area to work - don't I always recommend this? It really is important, for safety, for being able to work without being obstructed, to work with enough elbow room, and with good lighting so you can really see what you are doing. I really cannot stress enough that this is worth having for any tinkering with robots, lego or computers.
 * Tissues - there will be some heat transfer compound to wipe away, and I did a bit messy with it.
-* Mini Vacuum cleaner + cotton wool buds - The inside of a computer, especially around the CPU fan and heatsink will get very dusty very quickly. Make sure you have something to clean it a bit with.
+* Mini Vacuum cleaner + cotton wool buds - The inside of a computer, especially around the CPU fan and heatsink will get dusty quickly. Make sure you have something to clean it a bit with.
 * Face Mask - if you are sensitive to dust, I would have one of these and wear it.
 
  Safety Goggles are generally not necessary for simple computer modifications/changes, at least not unless the soldering iron comes out or you go beyond the basics. However, if you are working with heat transfer compound, do not rub your eyes, and make sure you wash your hands well before consuming any food.
@@ -39,7 +39,7 @@ Some basic parts I prepared for this, although this is not exhaustive, as with t
 
 # Opening up the computer
 
-This is actually very simple, and with my case - a Cooler Master Centurion, it was a matter of undoing one thumbscrew on the top, sliding the top panel off, and then lifting off the side panel. This case is a real joy to work with - it also has turned edges to save cuts and scrapes from sharp corners.
+This is actually simple, and with my case - a Cooler Master Centurion, it was a matter of undoing one thumbscrew on the top, sliding the top panel off, and then lifting off the side panel. This case is a real joy to work with - it also has turned edges to save cuts and scrapes from sharp corners.
 
 Just make sure you put whatever screws in a safe spot where you can find them later.
 
@@ -47,9 +47,9 @@ Just make sure you put whatever screws in a safe spot where you can find them la
 
 The Sempron CPU already in the machine was, as mentioned earlier, getting pretty hot. I was using it with a genuine AMD Cooler and the heat transfer pad already present on it.
 
-I unclipped the cooler, and normally a gentle tug should free them of the CPU/Bracket. However, it was stuck fast. The heat transfer compound was very thin, and had also hardened somewhat. The problem with Socket 754 and later CPU's is that the plastic bracket the cooler clips in does not allow access to the CPU free lever.
+I unclipped the cooler, and normally a gentle tug should free them of the CPU/Bracket. However, it was stuck fast. The heat transfer compound was thin, and had also hardened somewhat. The problem with Socket 754 and later CPU's is that the plastic bracket the cooler clips in does not allow access to the CPU free lever.
 
-I had a choice of trying to run some software to really abuse the CPU and heat it up (like Prime 95, a suggestion on some websites), or to tug harder. I decided to gently tug harder. It is important here to make sure you are tugging completely vertically - any skew here will mess up the pins on the CPU, which is very bad news if you want to use it again. Luckily it came away safely (which considering I needed it again later was very important).
+I had a choice of trying to run some software to really abuse the CPU and heat it up (like Prime 95, a suggestion on some websites), or to tug harder. I decided to gently tug harder. It is important here to make sure you are tugging completely vertically - any skew here will mess up the pins on the CPU, which is bad news if you want to use it again. Luckily it came away safely (which considering I needed it again later was important).
 
 However, the CPU was now securely fastened to that cooler, and currently my plan was to use this cooler again. How could I get the CPU off the cooler? Well the HTC would clearly soften if there was a little heat present. I did not want too intense or focussed heat like a soldering iron. So I needed something more gentle with a large surface area. My choice was a travel iron on a low setting.
 
@@ -112,7 +112,7 @@ The problem with the Turion processors, is instead of the Desktop CPU's which us
 
 The BIOS did not show any setting to enable Cool N' Quiet or PowerNow technology that can be used to control an AMD CPU's speed with software. I booted Ubuntu, and tried to load the powernow-k8 module but received the message "Device not found". Checking the DMESG log there were a number of messages to the effect of this feature not being supported by my BIOS. Net result - no software controlled CPU stepping.
 
-However, the OS was now running fine, and stable. I did feel I was not getting the full potential to save power, but the temperature was very good, at between 32 and 35 degrees C.
+However, the OS was now running fine, and stable. I did feel I was not getting the full potential to save power, but the temperature was good, at between 32 and 35 degrees C.
 
 In an attempt to get BIOS support for this, I went to the Gigabyte (motherboard manufacturer) support site and downloaded the latest flash code. Now - I do not have any floppy drives, so I needed to make a bootable CD.
 

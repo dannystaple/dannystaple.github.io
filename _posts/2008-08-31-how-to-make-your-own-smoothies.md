@@ -36,7 +36,7 @@ With most fruit, do not restrict yourself to one variety - a well stocked fruit 
 
 Bananas that are mostly brown are good, bananas that are still a little green are not suitable. Ones with a number of brown spots are also fine.
 
-Watermelon adds a lot of liquid to a smoothie, and makes it very sweet, so don&amp;#039;t go overboard with it. Honey melons add a bit less liquid, but still can make a smoothie a little over sweet.
+Watermelon adds a lot of liquid to a smoothie, and makes it too sweet, so don't go overboard with it. Honey melons add a bit less liquid, but still can make a smoothie a little over sweet.
 
 Pineapple adds a lot of sweetness and tang to a smoothie. It can also make it quite acidic so be careful.
 
@@ -78,7 +78,7 @@ Cooked beetroot is easiest, simple slice it up and drop it in. Fresh beetroot ne
 
 To add zing to a smoothie, a chunk of root ginger can be chopped and blended in. This is even more effective if you make a paste of it with a mortar and pestle or a small herb blender before adding it. With tastes like ginger, surface area is fairly important for getting it to diffuse through the mix, and not merely be chunks of ginger.
 
-Basil - surprisingly basil can go well in a smoothie, although this needs to be fresh basil not the dried type. The best kind of basil to use for this is basil you have grown yourself. Alternatively, buy a growing pot, and use the very topmost leaves.
+Basil - surprisingly basil can go well in a smoothie, although this needs to be fresh basil not the dried type. The best kind of basil to use for this is basil you have grown yourself. Alternatively, buy a growing pot, and use the topmost leaves.
 
 Mint - mint leaves can be added, but be sparing with mint, it can easily overwhelm. Again, home grown fresh mint is easily the best (and will be cheaper in the medium term).
 

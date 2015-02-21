@@ -25,15 +25,15 @@ Systems that can effectively process waste (and not merely launch it away) may n
 
 I am interested in when we will see off-planet manufacturing/fabrication plants.
 
-The advantages of an off planet fab plant are many. Contamination Free Zones would be very easy. The scale of the thing would be limited to shipping things up there, but space tourism will make this cheaper.
+The advantages of an off planet fab plant are many. Contamination Free Zones would be easy. The scale of the thing would be limited to shipping things up there, but space tourism will make this cheaper.
 
 Since real estate is pretty cheap out there, expansion gives few costs in those terms.
 
-With limited gravity, very large structures or machines could be constructed, as well as fabrication systems that take advantage of weightlessness by projecting things at slower speeds.
+With limited gravity, large structures or machines could be constructed, as well as fabrication systems that take advantage of weightlessness by projecting things at slower speeds.
 
 Solar power, as well as atomic power systems can be used in ways that are either not so efficient or safe on earth.
 
-Hopefully such systems will not need to be manned, as a downside would be very cheap labourers sent off-world to such labs.
+Hopefully such systems will not need to be manned, as a downside would be cheap labourers sent off-world to such labs.
 
 # Cost
 

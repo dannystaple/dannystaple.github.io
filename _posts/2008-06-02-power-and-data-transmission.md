@@ -31,7 +31,7 @@ Tricky customer aren't I?
 
 ## Wiring a 12 volt rail through the house
 
-An old friend lives in a house out in the moors, where he generates his own power through both a diesel generator and a wind turbine. The house came with very old wiring, not really suitable for safe use at 240 volts. He hired an electrician to wire the 240 volts, and converted the old wiring into a 12 volt DC system.
+An old friend lives in a house out in the moors, where he generates his own power through both a diesel generator and a wind turbine. The house came with old wiring, not really suitable for safe use at 240 volts. He hired an electrician to wire the 240 volts, and converted the old wiring into a 12 volt DC system.
 
 ### Pros
 
@@ -40,7 +40,7 @@ An old friend lives in a house out in the moors, where he generates his own powe
 
 ## Cons
 
-* My own flat and most others have no such system, and while I would condone new builds to have some such line, it would be very expensive and messy to retrofit.
+* My own flat and most others have no such system, and while I would condone new builds to have some such line, it would be expensive and messy to retrofit.
 * Devices that take less than 12 volts will have to have regulators, and devices which take a little more will be a problem.
 * The lines will be pretty noisy, and therefore additional smoothing is probably required at device endpoints.
 * No data lines.
@@ -100,10 +100,10 @@ This first sounded like a bit of a joke, an April fools. But it turns out this i
 * Scales through voltages based on a resistance.
 * Done properly is still compatible with non POE devices.
 * Been used in the field for a while.
-* Uses very common and cheap Ethernet Rj45 plugs, and standard Cat5 cabling.
+* Uses common and cheap Ethernet Rj45 plugs, and standard Cat5 cabling.
 
 ### Cons
-* done very cheaply it is not compatible with non POE devices.
+* done cheaply it is not compatible with non POE devices.
 * The voltage selection seems to only be negotiable at start up, and cannot adapt to device requirements like the Greenplug.
 * May not be compatible with gigabit Ethernet apart from high end range.
 * Ethernet network may not be available (but in my case it is).
@@ -115,7 +115,7 @@ This is probably the most appealing solution yet. There are even whole thin-clie
 
 # Readers Call to action
 
-I am relatively sure that I have only covered a very small portion of the possible ways to do this, and there are more to consider.
+I am relatively sure that I have only covered a small portion of the possible ways to do this, and there are more to consider.
 
 So do you know any systems? Could you advise me, or tell me your experiences with these devices? Maybe you are a company with products like this trying to make yourself known - in which case you are free to leave a comment on this article with a link back to your site.
 

@@ -35,7 +35,7 @@ This is a rear shot of the ship. Note that the parts that look like old fashione
 
 ![](/galleries/2005-05-12-megabloks-ship/247_P1010033.jpg)
 
-In this shot - you can see that the landing struts in the middle did not do very well on the landings - though they were a compromise when I couldn't use more of the red struts I used elsewhere.
+In this shot - you can see that the landing struts in the middle did not do well on the landings - though they were a compromise when I couldn't use more of the red struts I used elsewhere.
 
 <![](/galleries/2005-05-12-megabloks-ship/248_P1010034.jpg)
 

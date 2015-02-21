@@ -20,7 +20,7 @@ The first real task was to get Amiga Explorer running. This should be relatively
 
 Once this was sorted - I hit my 20 minute limit(this became a regular annoyance until the new one arrived). When it was back up, I then installed the Amiga portion of Amiga Explorer. It installs over the serial cable - you dont need any floppy swapping - which is really useful as a PC wont read/write Amiga floppies, the Amiga floppy drive only reads double densities (no good for a couple of meg), and my PC has no floppy drive any more anyway.
 
-It is actually surprisingly easy to do, and to use - although I had very little luck trying to grab ADF's of disks directly with Amiga explorer- I would either run out of my time limit (20 minutes remember), or it would simply fail the conection. Also - 20 minutes was not enought to transfer the Hard Disk contents (only a mere 20Mb) over the slow serial connection.
+It is actually surprisingly easy to do, and to use - although I had little luck trying to grab ADF's of disks directly with Amiga explorer- I would either run out of my time limit (20 minutes remember), or it would simply fail the conection. Also - 20 minutes was not enought to transfer the Hard Disk contents (only a mere 20Mb) over the slow serial connection.
 
 So - I used the Amiga to copy as much of my own work as I could to the HDD, so I didnt need the floppies for that. I used transdisk to generate ADFs of Non AmigaDOS floppies.
 

@@ -13,7 +13,7 @@ Today I was watching a program on the BBC documenting, among other things, the h
 This strikes some as a massive danger and potential contributor to a global warming chain reaction. However, I always like to try to turn situations around. Where others find doom, wouldn't it be better to deflect this by utilising the source of it?
 
 This to me looks like a massive potential source of "free" energy. Why is it currently untapped?
-Okay - combusting it in the usual way may not be very wise, but there is large scale fuel cell technology designed to tap methane gas, as well as research to reduce the size and cost of these devices. It would be a very, very good plan to start situating methane gas based power plants on the Siberian lakes, to directly siphon this gas, and convert it to energy.
+Okay - combusting it in the usual way may not be wise, but there is large scale fuel cell technology designed to tap methane gas, as well as research to reduce the size and cost of these devices. It would be a good plan to start situating methane gas based power plants on the Siberian lakes, to directly siphon this gas, and convert it to energy.
 
 I do not claim to be the proprietor of the idea, but have not yet heard it from anyone else, so if your company has already had the idea, and are going to put it into action, kudos to you.
 

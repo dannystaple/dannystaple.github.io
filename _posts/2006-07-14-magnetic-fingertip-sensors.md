@@ -7,7 +7,7 @@ layout: post
 ---
 It seems that some crazy group of people have been opening their fingers (OUCH!) and embedding magnets under their skin. This allows them to sense metal running under walls, detect motor movements and AC current and many other things.
 
-However, cutting open skin sounds very dodgy to me, and as well as being unnecessarily painful, has resulted in bits of magnet breaking off and embedding themselves further into the finger, infection, and loss of fingertip sensitivity. That's just not good!
+However, cutting open skin sounds dodgy to me, and as well as being unnecessarily painful, has resulted in bits of magnet breaking off and embedding themselves further into the finger, infection, and loss of fingertip sensitivity. That's just not good!
 
 Now, on [Mark Ivey's blog](http://zovirl.com/2006/07/09/magnetic-sense), he recounted finding a magnet and gluing it to his fingertips with wood glue (and considered super glue!). Which while being much less painful still sounds a bit too much.
 

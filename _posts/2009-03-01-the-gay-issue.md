@@ -9,7 +9,7 @@ tags: [social issues]
 
 The issue of homosexuality is still a big thing for some. For others it is done and dusted, they no longer think it is an issue and are happy to let it be. The number accepting it are growing, but there is still plenty of debate, prejudice and controversy on this subject. Gay marriage has thrust it further into the limelight, with different nations and states choosing to rule differently on this, the time to debate it is most definitely now.
 
-Okay, I will come clean, I am a straight man, so what could I possibly know. Well, although it may not count for much some peoples eyes, some very close friends of mine, and even some family, are gay. I have seen them go through the negative and discriminatory attention they receive for it.
+Okay, I will come clean, I am a straight man, so what could I possibly know. Well, although it may not count for much some peoples eyes, some close friends of mine, and even some family are gay. I have seen them go through the negative and discriminatory attention they receive for it.
 
 I cannot say I entirely understand "what a gay person thinks" or why some people find the issue so disturbing that they become homophobic. All I know is that it is becoming a divisive issue and without discussion and debate on it, there can not be understanding.
 
@@ -19,9 +19,9 @@ This lens is however more about presenting some of the issues around this, and a
 
 For the sake of this article, for convenience, I will use the term Gay to describe Homosexual males, females (Lesbians) and Bisexual people or behaviour. Sorry if that offends you, but I am not going to write out every grouping every time.
 
-I know that for an older generation, or for English teachers, this word has a very different meaning of simply being happy. As far as I know, it was adopted as a way of describing the happiness felt by someone who has finally accepted their own sexuality and ceased denying it.
+I know that for an older generation, or for English teachers, this word has a different meaning of simply being happy. As far as I know, it was adopted as a way of describing the happiness felt by someone who has finally accepted their own sexuality and ceased denying it.
 
-For a very much younger generation, calling something “gay” is used a general term of dislike, and is not intended as a word for those who are homosexual. I will not use it in that context.
+For a much younger generation, calling something “gay” is used a general term of dislike, and is not intended as a word for those who are homosexual. I will not use it in that context.
 
 # Being Gay
 
@@ -52,7 +52,7 @@ At the moment, there is a huge debate about what it means to be Gay. I think it 
   
 # Is the nature of being/feeling gay still an important part of the debate?
 
-A really important question here has been whether it is a learned behaviour, or a natural thing. The very progressive will say, why does it matter - people should be allowed to chose or be their sexuality and be accepted for it. The very conservative will also say, why does it matter, it is still wrong.
+A really important question here has been whether it is a learned behaviour, or a natural thing. The progressive will say, why does it matter - people should be allowed to chose or be their sexuality and be accepted for it. The conservative will also say, why does it matter, it is still wrong.
 
 Perhaps it is time not to focus on this distinction, but it currently exists all the same. Do you think it should be important in this issue, or do you think that it being a choice or nature are besides the point? Your answer should be regardless of this coming from the liberal or conservative view.
 
@@ -126,7 +126,7 @@ ernieplotter says:
 One subject that has certainly brought this area front and centre of religious and political discussion are same sex marriages. There are many schools of thought on this. I have tried to describe each as if from that point of view. Again - do not mistake those views for my own.
 
 * Marriage, is defined by the bible as a man and a woman.
-  If you are a biblical scholar, I do not know if this can actually truly be found in scripture, but it is something that is often said. This would mean that by its very definition it excludes gay marriage.
+  If you are a biblical scholar, I do not know if this can actually truly be found in scripture, but it is something that is often said. This would mean that by definition it excludes gay marriage.
 * Marriage allows a couple to show their dedication to each other
   Regardless of their sexuality, by being together, a couples bond is increased by celebrating and making formal their relationship. It means that society as a whole is more cohesive, and because people are supporting each other, less of a burden to the state as they look after each other. They are more likely to have good, happy lives.
 * Marriage is only for the sake of children.

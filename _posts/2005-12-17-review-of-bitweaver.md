@@ -10,25 +10,25 @@ As much as it is my job to get the scoop on robots, or build robots and find con
 
 # History
 
-I will start with a little history - OrionRobots has been through a few CMS (Content Management System) tools in the last 4 years. It started life as a basic AMP (Apache MySQL PHP) database of articles of my own, and was turned into a site based on Slashcode (which I found a little too heavy), then PHPSlash which I eventually realised was not quite the required format. I then found Zope, which ran using Python- very expandable, but extremely heavyweight, and at that time, its wiki component was very unreliable and not being maintained very much. I finally settled, and have stayed for around 2 years now on Tikiwiki.
+I will start with a little history - OrionRobots has been through a few CMS (Content Management System) tools in the last 4 years. It started life as a basic AMP (Apache MySQL PHP) database of articles of my own, and was turned into a site based on Slashcode (which I found a little too heavy), then PHPSlash which I eventually realised was not quite the required format. I then found Zope, which ran using Python- expandable, but heavyweight, and at that time, its wiki component was unreliable and not being maintained much. I finally settled, and have stayed for around 2 years now on Tikiwiki.
 
 # Tikiwiki
 
 Tikiwiki is fully featured. It is stable, well developed and easily styled. Although it is rough around the edges, I do have my migration script I created then for getting my zope content into tiki.
 
-It has a few problems, it is not the fastest tool, though notably faster than Zope. It still has issues with modularity, and expansion - though the very active community (of which I am part and am working on a few mods of my own) are working to improve it a great deal. I find the galleries and file galleries useful, and the addition of subgalleries was great, but a more directory like structure (which Zope did have) might be useful. Tiki is undergoing quite rapid development and feels very right for what I do.
+It has a few problems, it is not the fastest tool, though notably faster than Zope. It still has issues with modularity, and expansion - though the active community (of which I am part and am working on a few mods of my own) are working to improve it a great deal. I find the galleries and file galleries useful, and the addition of subgalleries was great, but a more directory like structure (which Zope did have) might be useful. Tiki is undergoing quite rapid development and feels right for what I do.
 
 # Bitweaver
 
 This week, I came across something new, and decided to evaluate it for testing - Bitweaver. Bitweaver actually started life as "TikiPro", a fork of Tikiwiki. It is far more modular, and fell out with the tiki maintainer over the use of PhpBB. In my evaluation - I notice it is much faster than tiki because of fewer database hits and optimized code. It only loads or installs the required modules.
 
-So I made sure my test server was up to spec, met all the requirements (since I run a couple of tiki test sites, it was pretty much there already), downloaded Bitweaver1.1, and installed it. I will freely admit, since it is closely related to tikiwiki, and since I am very comfortable with tikiwiki - I compared it most closely with tiki.
+So I made sure my test server was up to spec, met all the requirements (since I run a couple of tiki test sites, it was pretty much there already), downloaded Bitweaver1.1, and installed it. I will freely admit, since it is closely related to tikiwiki, and since I am comfortable with tikiwiki - I compared it most closely with tiki.
 
-Bitweavers installation was very shiny and easy, although, since installation is a rare operation, and I am very comfortable installing tikiwiki, I don't consider it that important. Once installed, and clicking around the sample data from the installation - the speed difference between this and tiki running on the same box was quite notable. It is definitely nippier. The only thing that has not undergone a speedup is the search system, which is quite slow, clunky and a little unreliable - a problem shared by the tiki search - and the reason I pair up with a google sitesearch bar.
+Bitweavers installation was shiny and easy, although, since installation is a rare operation, and I am comfortable installing tikiwiki, I don't consider it that important. Once installed, and clicking around the sample data from the installation - the speed difference between this and tiki running on the same box was quite notable. It is definitely nippier. The only thing that has not undergone a speedup is the search system, which is quite slow, clunky and a little unreliable - a problem shared by the tiki search - and the reason I pair up with a google sitesearch bar.
 
 What really strikes me is most definitely the "packages". Packages give a nice way to integrate new behaviour into a site, including taking pristine code from other AMP applications and making minimal changes to integrate them. You could (for example) probably take Squirrelmail, and integrate it the site - wrapping the user logins and making a few style changes, while keeping most of the core functionality close enough that merging new versions of squirrelmail wouldn't be too onerous.
 
-Some of the existing packages are very nice as well. The "liberty" package - a component in the default distribution, integrates and standardises some content much closer than tikiwiki does. The "nexus" menu system seems interesting too.
+Some of the existing packages are nice as well. The "liberty" package - a component in the default distribution, integrates and standardises some content much closer than tikiwiki does. The "nexus" menu system seems interesting too.
 
 The wikibooks (which directly rival tiki structures) allow multiple content types. It still suffers from tiki's problems creating PDF's which tend not to keep wiki formatting, but show the markup behind it. As well as greater content flexibility (drawing on "liberty" probably) it is also a little nicer in terms of usability here.
 

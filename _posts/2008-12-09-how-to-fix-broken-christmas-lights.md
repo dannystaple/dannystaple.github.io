@@ -39,7 +39,7 @@ Peter Parsons, a 47 year old maintenance worker in Chester, had the unfortunate 
 
 He spent 6 hours finding the dud bulb. I have no idea which method he used to find it, but I would like to think he did not have to check every one of those bulbs to get there.
 
-However, I spent about a few minutes with mine - or less. Granted there were only 80 bulbs, but still, I did not want to have to check every one.
+However, I used only a few minutes with mine - or less. Granted there were only 80 bulbs, but still, I did not want to have to check all of them.
 
 With this technique, he would have done only around 52 tests to troubleshoot his lights.
 
@@ -55,7 +55,7 @@ ASIN=B003EEM9HG
 
 Before going too far on this - you should consider if it's worth repairing them. Depending on the age of the lights, a new bulb for them may cost more than the equivalent modern string of LED bulbs. 
 
-Lights can last for many years as long as you replace the bulbs and check the fuses, however, old lights will not be very energy efficient and maybe making your Christmas more expensive than it need be. Modern LED based lights very rarely need changing or fixing.
+Lights can last for many years as long as you replace the bulbs and check the fuses, however, old lights wont be energy efficient and maybe making your Christmas more expensive than it need be. Modern LED based lights rarely need changing or fixing.
 
 So do you go for modern lights - and saving electricity, or for fixing the old lights and saving landfill/waste?
 
@@ -147,7 +147,7 @@ Again, you touch the probes to the area under test and then observe the result.
 
 If using the continuity check, there's often a light and beeper. Also a digital display will flip from 0 to 1.
 
-If you are using the resistance, then it will show "1" for a broken (in electrical terms this is open) circuit and 0 or a number very close to zero for a working (closed) one.
+If you are using the resistance, then it will show "1" for a broken (in electrical terms this is open) circuit and 0 or a number close to zero for a working (closed) one.
 
 # Step 2 Checking the fuse
 

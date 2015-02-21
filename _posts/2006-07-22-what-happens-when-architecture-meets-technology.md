@@ -11,7 +11,7 @@ The amazing rotor house is what. This house features a large single room, and th
 
 There is a separate toilet, so the obvious issue of needing a wee in the middle of the night and needing to reach for the remote, is sorted.
 
-The point is that it will be space saving, and very suitable for a single professional living in the city. Most definitely an interesting concept.
+The point is that it will be space saving, and suitable for a single professional living in the city. Most definitely an interesting concept.
 
 # Links
 

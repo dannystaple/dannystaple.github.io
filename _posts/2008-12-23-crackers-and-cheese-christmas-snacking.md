@@ -37,7 +37,7 @@ Here is my general minimum setup:
 
 * A Roulade – This is a roll of soft cheese with chives and herbs.
 * A medium Cheddar (you can add in a mature one as well, but normally the medium goes down well) – Standard British Cheese – firm and strong tasting.
-* Brie – This is very soft, buttery cheese. I find the taste subtle. It has a mushroom tasting edible rind.
+* Brie – This is soft buttery cheese. I find the taste subtle. It has a mushroom tasting edible rind.
 * Blue Stilton – Strong tasting, and even more strong smelling cheese with blue veins running through it.
 * Wensleydale – A light favoured, soft and crumbly cheese. Wallace (of the Wallace and Grommit fame) loves this cheese best of all.
 * A processed and smoked continental cheese – smooth, creamy cheese with a smoked flavour. They normally come with an inedible rind in a small sausage shaped tan package.
@@ -48,10 +48,10 @@ Generally, buying a cheeseboard set in a UK supermarket at the right season will
 I then add in a number of other cheeses depending on the crowd, how large they are, and who I know will be coming:
 
 * Edam – This Dutch Cheese generally comes in a large ball, a section of, or small bitesize balls. It is mild and creamy to the taste and rubbery in texture, and has a few holes in it.
-* Emmental – This is a Swiss Cheese with the infamous holes in it. It has a very unique taste to it. The texture is also fairly rubbery.
+* Emmental – This is a Swiss Cheese with the infamous holes in it. It has a unique taste to it. The texture is firm.
 * Double Gloucester (from where I grew up!) – Creamy, firm and rich. Crumblier than Cheddar, with a slightly redder colour, this is a whole milk, unpasteurised cheese.
 * Red Leicester – This uses much more of the Orange Annato natural dye used in Double Gloucester, giving it the distinctive red appearance. It is tangy and firm – again crumbly when compared with Cheddar.
-* Cheshire – This cheese is very crumbly and salty to the taste. I generally go for the white variety.
+* Cheshire – This cheese is crumbly and salty to the taste. I generally go for the white variety.
 
 Finally, a few speciality/novelty cheeses are good:
 
@@ -76,12 +76,12 @@ Much like the cheeses, there are crackers everyone loves, and those that you eit
 Varieties
 
 * The Cream Cracker – This is the iconic cracker for cheese. It is crisp, flaky, slightly buttery/creamy in taste. It is also palette cleansing – which between trying different cheeses is quite important.
-* The Rivita – I am not personally a fan of these. They are high-fibre large rectangular rye and mixed grain crackers. They are very dry. They are also rumoured to be the most healthy of the crackers.
+* The Rivita – I am not a fan of these. They are high-fibre large rectangular rye and mixed grain crackers. They are dry. They are also rumoured to be the most healthy of the crackers.
 * The Digestive – Although this is a sweet biscuit, it works fairly well with Cheddar. For real indulgence, butter it slightly, then put a slice of cheddar on it. The biscuit is fairly high fibre, being made with coarse wheat flour. The texture is almost that of oatmeal.
 * Crackerbread – this is a light yellow coloured puffed cracker – rectangular, lightly crispy, a little salted. These can be bought in wheat, wholegrain and multi grain varieties.
 * Cheese Thins AKA Ritz – thin, crispy quite salty and cheesy round crackers.
-* Water biscuits – These are thin, very crunch crackers. Despite the name they feel a bit dry, this is because they do not have the butteriness of other crackers.
-* Butter puffs – Thick, very flaky round crackers with a buttery taste.
+* Water biscuits – These are thin, crunchy crackers. Despite the name they feel a bit dry, this is because they do not have the butteriness of other crackers.
+* Butter puffs – Thick flaky round crackers with a buttery taste.
 * Hovis Crackers – these are similar to the digestive, but slightly less sweet.
 * Seeded or herbed crackers – good for some variety, there are salt and black pepper, chives, cumin, and sesame crackers, generally square and based on the cream cracker.
 
@@ -95,10 +95,10 @@ Getting the pickle right can give real contrast.
 
 * Sweet pickle/ploughmans – This is the traditional pickle for cheese. Goes most excellently with cheddar. It is tangy, crunchy and chunky pickle with a mixture of vegetables.
 * Pickled Onions – There are a few varieties of these and depending on the aging and spices used, their piquancy varies. I have had pickled onions that made my eyes water on more than one occasion.
-* Piccalilli – This is a very sharp and spicy pickle based on mustard, with cauliflower and other vegetables. I enjoy this but it is a bit much for some. Be careful when buying this – it looks similar in colour to coronation sauce and I have bought the other in error at least once.
+* Piccalilli – This is a sharp and spicy pickle based on mustard, with cauliflower and other vegetables. I enjoy this but it is a bit much for some. Be careful when buying this – it looks similar in colour to coronation sauce and I have bought the other in error at least once.
 * Onion and Redcurrant Chutney – Sweet and sharp, a favourite with some of the cheese that is less potent than strong cheddar.
 * Pickled Gherkins – I prefer the sliced, crinkle cut variety for cheeses.
-* Pickled beetroot – Sweet and tangy, a pleasing combination. Careful though – these will stain anything very quickly.
+* Pickled beetroot – Sweet and tangy, a pleasing combination. Careful though – these will stain anything quickly.
 * Sauerkraut – Although not traditionally part of the line-up, I have found that a jar of this complements some cheeses fairly well. After all – it is tastebud stimulation this is about, not standing on ceremony.
 
 # Great combination - Mustard

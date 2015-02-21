@@ -39,9 +39,9 @@ In short:
 * You may damage a kit if not experienced - expensive mistakes.
 * You'll need additional tools.
 
-While soldering is suitable for suitably trained adults and older teenagers, it can be fairly dangerous and should not be attempted without being a) old enough to take it very seriously, and b) Some preparation and training.
+While soldering is suitable for suitably trained adults and older teenagers, it can be fairly dangerous and should not be attempted without being a) old enough to take it seriously, and b) Some preparation and training.
 
-Soldering irons are very hot, hot enough to melt the solder alloy so it can make the electrical joints. At the temperatures these reach, they are very capable of leaving serious burns. If a soldering iron is left on, it can also easily cause a fire.
+Soldering irons are hot enough to melt the solder alloy so it can make the electrical joints. At the temperatures these reach they are capable of leaving serious burns. If a soldering iron is left on, it can also easily cause a fire.
 
 Soldering irons tend to be high current devices, and should only be used with a fused outlet rated for their current usage.
 
@@ -133,7 +133,7 @@ Alongside the bare board, it is worth having a number of components to connect i
 
 The best way to do it is to find an Arduino Starter kit which will have the main module plus breadboards, wires and a bunch of fun modules and sensors to play with.
 
-Combined with the development system and a very helpful community, lots of tutorials and the buzz around the Arduino - this one is sure to go down really well.
+Combined with the development system and a helpful community, lots of tutorials and the buzz around the Arduino - this one is sure to go down really well.
 
 # Number Five - the Lego NXT
 
