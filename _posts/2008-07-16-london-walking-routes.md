@@ -66,7 +66,7 @@ Also in my daily commute is a walk from the sparkling new Shepherds Bush station
 
 Hyde Park has enough to walk around for days, and you can cross to St James Park and see Buckingham Palace without straying far from the amazing park land. The serpentine itself is very serene, as does the Diana memorial, which is a joy to the feet.
 
-Staying in West London, you can walk through Notting Hill (exiting from Hyde Park if you have walked that far), starting at The Champion (which has a superb drinks selection), then stopping for food at The Churchill Arms, you can then continue along Kensington Church Road, Church Road being full of beautiful old antique shops and of course a church, in fact more than one. There are other pubs suitable for a pub crawl, and you can continue onto the High Street. Following this down takes you into Hammersmith, which has a great selection of pubs, but the main aim is to go around the Broadway, and onto the Thames Path at Hammersmith bridge. Hammersmith Bridge is itself quite magnificent. Walking along the Thames, you have a choice of stopping off at a number of pubs, including The Rutland, The Dove and The Ship.
+Staying in West London, you can walk through Notting Hill (exiting from Hyde Park if you have walked that far), starting at The Champion (which has a superb drinks selection), then stopping for food at The Churchill Arms, you can then continue along Kensington Church Road, Church Road being full of beautiful old antique shops and churches. There are other pubs suitable for a pub crawl, and you can continue onto the High Street. Following this down takes you into Hammersmith, which has a great selection of pubs, but the main aim is to go around the Broadway, and onto the Thames Path at Hammersmith bridge. Hammersmith Bridge is itself quite magnificent. Walking along the Thames, you have a choice of stopping off at a number of pubs, including The Rutland, The Dove and The Ship.
 
 # Holland Walk, Holland Park, West London
 
@@ -96,7 +96,7 @@ Follow this path, again past beautiful large houses, and you will see the park o
 
 As you walk through, you may hear the call of the Peacocks that reside in the park. Continuing along, it gets greener, and the large green is on right, with another row of grand town houses on the left.
 
-Eventually you will come through the gates onto Kensington High Street, which is fantastic for shopping. You will immediately see a number of well known chains, and interesting small independent shops. The character of this area is superb. If you chose to follow Earls Court Road, you will of course, be able to reach Earls Court in walking distance, but you will again pass plenty of shops full of character on the way, my favourite being an independent garden centre.
+Eventually you will come through the gates onto Kensington High Street, which is fantastic for shopping. You will immediately see a number of well known chains, and interesting small independent shops. The character of this area is superb. If you chose to follow Earls Court Road, you will be able to reach Earls Court in walking distance, but you will again pass plenty of shops full of character on the way, my favourite being an independent garden centre.
 
 This walk is available even after hours when the park is closed, though obviously, if you are walking late, please bear you safety in mind, as even in an affluent area, you still want to play it streetwise.
 

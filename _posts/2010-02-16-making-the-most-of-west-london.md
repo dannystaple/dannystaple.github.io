@@ -21,7 +21,7 @@ Notting Hill is the home of the Israeli embassy as well as a number of other gra
 
 It is a short walk from all of this cosmopolitan fun to Kensington Gardens - a corner of Hyde park, and Holland Park. 
 
-Notting Hill has also been used as the location for a few films, including of course the romantic comedy Notting Hill.
+Notting Hill has also been used as the location for a few films, including the romantic comedy Notting Hill.
 
 Nearest Tube Station: 
 Notting Hill Gate - District, Circle and Central Lines.

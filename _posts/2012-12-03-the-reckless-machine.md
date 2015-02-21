@@ -26,7 +26,7 @@ Sound ludicrous?
 # The Automobile or Car
 ## An icon of Perserverance and Technology
 
-I have been, of course, talking about the common combustion engine - used in almost all cars, trucks and buses. It now has a history of over a century, and is probably one of the safer forms of transport, at least in terms of engine failure, although other related accidents are perhaps still a fairly high figure.
+I have been talking about the common combustion engine - used in almost all cars, trucks and buses. It now has a history of over a century, and is probably one of the safer forms of transport, at least in terms of engine failure, although other related accidents are perhaps still a fairly high figure.
 
 The car is, without doubt, a major technological item in our recent history, although it remains to be seen what the future holds for them.
 It is far from the ideal system, and it's may flaws are why we must, must be bold and see what the future holds. It is a past to not be ashamed of, but we should fear no attempts to replace it.

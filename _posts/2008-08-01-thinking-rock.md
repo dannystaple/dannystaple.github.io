@@ -44,7 +44,7 @@ Freeing yourself to do things later, in order of priority, or when you have the 
 
 When turning a thought into a task, you are encouraged (though not required) to think first about if it is actionable, then if so, about the context (is it a work thing, home thing, where can you do it or what is it broadly related to), how soon it must be done, how much effort is needed to make it happen (mental, physical, time), and exactly what a successful outcome is.
 
-This is all of course optional, but to think in these terms means you make simple, measurable, actionable and reachable tasks - SMART tasks. These are tasks you are more likely to actually complete over vague and ill defined ones.
+This is all optional, but to think in these terms means you make simple, measurable, actionable and reachable tasks - SMART tasks. These are tasks you are more likely to actually complete over vague and ill defined ones.
 
 As Thinking Rock says, if you do not have time to try this tool, you really need it.
 
