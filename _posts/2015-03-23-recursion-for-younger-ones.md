@@ -2,7 +2,7 @@
 layout: post
 tags: [programming, python, kids]
 ---
-This evening, my daughter read a book that ctually had a recursive element - it referenced itself. The book was about being able to step into books and meet the characters,with the character in the book suggesting the reader, if they could, would be able to step in and meet him. And then he was holding the book that she was holding. She found it quite amusing, and exciting -the idea that the book, in the book would have him holding the book again and so on.
+This evening, my daughter read a book with a recursive element - it referenced itself. The book was about character who wanted to step into books and meet their characters, with the character in the book suggesting the reader, if they could, would be able to step in and meet him. And then he was holding the book that she was holding. She found it quite amusing, and exciting -the idea that the book in the book would have him holding the book again and so on.
 
 This lead us to playing with the idea - she learned a new word - recursion. And then I linked it to code.
 She has done simple programming - turtle stuff and some drawing in a pygame loop or on Khan Academy, but she'd not seen functions.
