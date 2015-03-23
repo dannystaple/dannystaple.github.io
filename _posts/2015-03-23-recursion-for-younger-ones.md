@@ -40,7 +40,8 @@ Lets get it to say something to her. She'd seen variables before, and used param
     Hello stinky
     
 She liked that. She played with it a bit trying different words for person - and she understood what it did. Yes she was also getting a little cheeky with her wording - I decided to roll with it if it worked - 5 year olds love toilet humour, partially because its the only joke structure she seemed to know, but I digress...
-We then changed hello to do somehting a bit different:
+
+We then changed hello to do something a bit different:
 
     >>> def hello(person):
 	    print "Hi there my old buddy", person
