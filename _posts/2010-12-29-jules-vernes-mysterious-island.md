@@ -27,7 +27,7 @@ It also must be said that the intention of this book is clearly the high adventu
 
 # Was The Mysterious Island one of my favourites?
 
-I think this is one of Jules Vernes best works, in fact I would boldy go as far as saying that I think it is better than 20,000 Leagues Under the Sea. It has less lengthy descriptions of fish for a start, and more cool inventions taking you through how they could be made from basics.
+I think this is one of Jules Vernes best works, in my opinion better than 20,000 Leagues Under the Sea. It has less lengthy descriptions of fish for a start, and more cool inventions taking you through how they could be made from basics.
 
 # The best line ever
 
