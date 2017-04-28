@@ -1,0 +1,3 @@
+[submodule "submodule_test"]
+	path = submodule_test
+	url = https://github.com/dannystaple/jekyll-submodule-test
