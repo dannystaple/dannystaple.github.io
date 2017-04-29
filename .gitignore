@@ -10,3 +10,6 @@ Thumbs.db
 .rvmrc
 .idea
 .cache
+*.pyc
+.picasa.ini
+wget.log
