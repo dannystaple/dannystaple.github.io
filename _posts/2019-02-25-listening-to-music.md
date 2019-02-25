@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listening to music, 
+title: Just listening to music
 tags: music, meditation
 ---
 Meditation is hardly a new thing, it's been around for a long time, and it sometimes becomes an "in" thing. At the moment, meditation apps like Calm and Headspace are being taken up by many people, who are finding life so busy, things so frnatic, that they need their phone, a bit of a modern talisman, to help them carve out a space to relax and breath in.
