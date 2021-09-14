@@ -1,0 +1,4 @@
+* text=auto
+# Declare text files
+*.md   text
+*.html text
