@@ -18,7 +18,7 @@ The second is a Googlebar module which allows other tikiwiki sites to host googl
 
 The third (which will be uploaded shortly) is a googlebar plugin for wikipages, which allows placement of googlebars in content.
 
-I use googlebar ads as they are highly context sensitive, and quite often give useful links to very relevant companies. You will note that I do not have any big top banners or big flash based ads, and I have (so far) managed to avoid the evils of certain ringtone ads.
+I use googlebar ads as they are highly context sensitive, and quite often give useful links to relevant companies. You will note that I do not have any big top banners or big flash based ads, and I have (so far) managed to avoid the evils of certain ringtone ads.
 
 I have also discovered the wiki draw feature, which uses JGraphPad to put editable drawings in the wiki, and have been converting some of the diagrams on the site to that format. I spent a bit of time today updating the version 3 JGraphPad shipped with tikiwiki to a newer version 5.4.0. The latest is 5.6, but since I cannot find a signed version, I will stick to 5.4. I did spend a bit of time looking into signing one myself - maybe later.
 

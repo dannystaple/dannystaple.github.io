@@ -7,7 +7,9 @@ layout: post
 ---
 {% include JB/setup %}
 
-<div style="float: left; margin-right: 4px"> <img src="{{ image_base }}/compaq_tft_monitor.jpg" alt="compaq TFT monitor" /></div> Some time ago I bought a second user Compaq TFT monitor. I had to spend a little time getting a power supply to get it running. These power supplies are notoriously difficult and expensive to get hold of, so I rigged my own.
+![compaq TFT monitor](/galleries/compaq-monitor/compaq_tft_monitor.jpg)
+
+Some time ago I bought a second user Compaq TFT monitor. I had to spend a little time getting a power supply to get it running. These power supplies are notoriously difficult and expensive to get hold of, so I rigged my own.
 
 These compaq flat screen monitors (not CRT technology) are now getting quite long in the tooth, but were great because they came in rack mount versions too. They would only really be found now on eBay - I would not really advise buying a Compaq TFT, but if you already have one, or have been given one, then this page contains advice on getting one working - specifically power supplies which can be hard to find for this model.
 
@@ -27,12 +29,12 @@ The original article had a number of suppliers, but most have since either disap
 
 Suppliers that may be able to help:
 
-* <a href="http://www.trademoon.com">Trademoon Product Catalogue - Compaq Supply</a>
+* [Trademoon Product Catalogue - Compaq Supply](http://www.trademoon.com)
 * <a href="http://www.powersourceonline.com/buy/170427--001-b-en.jsa">Buy and sell new, used and refurbished 170427-001 on PowerSourceOnline.com</a>
 
 # Understanding the Compaq Power Connection
 
-<img src="{{ image_base }}/compaq_power_connection.png" />
+![](/galleries/compaq-monitor/compaq_power_connection.png)
 
 The Compaq models - like the TFT 5000 (and 450) monitor are pretty expensive, and are hard to get service of parts for after HP acquiring compaq. Mine came without a power adaptor - which used a custom connector type - which was an expensive and rare part to replace.
 
@@ -42,13 +44,14 @@ As a result - I collected and worked out what information I could by questioning
 
 ## Helpful websites:
 
-* <a href="http://www.diyaudio.com/forums/lcd/20318-compaq-tft-5000-a.html">Compaq TFT 5000? - diyAudio</a>
-* <a href="http://slashdot.org/journal/56518/Juggling-christmas-dinner-robots-websites-and-families?art_pos=1">Connector Pinout On My Slashdot Journal</a> - A user DexterPexter responded to me with some great info there, and is also a robot builder.
+* [Compaq TFT 5000? - diyAudio](http://www.diyaudio.com/forums/lcd/20318-compaq-tft-5000-a.html)
+* [Connector Pinout On My Slashdot Journal](http://slashdot.org/journal/56518/Juggling-christmas-dinner-robots-websites-and-families?art_pos=1) - A user DexterPexter responded to me with some great info there, and is also a robot builder.
 
 My initial findings were that it has one 12v, 2amp and a 5v/2.5a supply, I know which pins are the common. But it was pretty awkward to find out which of the other pins were which. The image beside this is a pin connection specification for the DC outputs of the AC power supply based on the info I found. The power supply is listed also as the dual voltage adaptor, it is suitable for the socket/plug for a Compaq TFT 5000, and possibly other models like the TFT450, LCD Monitor.
 
 # Using A PC Power Supply
-<img src="{{ image_base }}/pc_drive_power_pins.gif" />
+
+![](/galleries/compaq-monitor/pc_drive_power_pins.gif)
 
 One good source of a 5v and 12v power rails with good stable current supplies are PC ATX power Supplies - these are fairly easily available, both new and old. Only two steps are required to convert one of these into a power supply usable on the Compaq Monitors.
 

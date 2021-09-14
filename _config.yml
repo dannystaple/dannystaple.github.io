@@ -4,20 +4,20 @@ encoding: UTF-8
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+highlighter: rouge
 excerpt_separator: "\n\n"
+markdown: kramdown
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title : Danny Staple Personal Pages
-tagline: Coding, Bloging, Building and stuff
+tagline: Coding, Lego Building and making stuff
 author :
   name : Dany Staple
   email : danny@orionrobots.co.uk
   github : dannystaple
   twitter : dannystaple
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

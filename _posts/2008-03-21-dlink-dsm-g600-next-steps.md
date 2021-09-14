@@ -10,7 +10,7 @@ layout: post
 
 So continuing my work with this box, since it was hackable, I decided the first thing to do was to try a simple test of the fun_plug system mentioned before.
 
-I created a very, very simple script:
+I created a simple script:
 
     #!/bin/sh
     echo Testing &gt;/mnt/HD_a2/fun_plug_active.log
@@ -30,15 +30,15 @@ I already have a Linux box as well as Cygwin (a way to run some linux based oper
 
 # Understanding Busybox
 
-The recommended (by the community) way to get telnet on this box is to use a busybox binary with additional telnet and sed components. Busybox, which I briefly mentioned in my previous post, is a modular system offering many common Linux commands and utilities in a small binary. It is designed to stay resident, have no (or few) external library dependencies, and be very small. All of the commands then run from this binary. It is perfect for use on embedded devices like this.
+The recommended (by the community) way to get telnet on this box is to use a busybox binary with additional telnet and sed components. Busybox, which I briefly mentioned in my previous post, is a modular system offering many common Linux commands and utilities in a small binary. It is designed to stay resident, have no (or few) external library dependencies, and be small. All of the commands then run from this binary. It is perfect for use on embedded devices like this.
 
-Busybox has an interesting way to identify which module is being called. You can run busybox directly, with the required command as a first parameter. However, the recommended way is to use a symbolic link (a file that links to the content of another file) which has the required modules name - this then conveniently means pointing the path at a directory of these symlinks allows them to be run as if they were all individual binary commands. Busybox commands are largely compatible with normal Linux/GNU equivalents, but are understandably lighter, so some less used or inappropriate (very intensive) options will be stripped away.
+Busybox has an interesting way to identify which module is being called. You can run busybox directly, with the required command as a first parameter. However, the recommended way is to use a symbolic link (a file that links to the content of another file) which has the required modules name - this then conveniently means pointing the path at a directory of these symlinks allows them to be run as if they were all individual binary commands. Busybox commands are largely compatible with normal Linux/GNU equivalents, but are understandably lighter, so some less used or inappropriate (intensive) options will be stripped away.
 
 The box already has a busybox binary of its own, but that is somewhat limited. I grabbed the binary from <http://download.dsmg600.info/busybox-telnetd-1.2.1.tar.bz2>. Following the community guide, I used 7zip to extract it to a folder.
 
 You should now end up with a couple of files - busybox, sed and a readme.txt.
 
-The readme.txt is very handy, it actually contains information on getting telnet running with this set. I copied over the binaries to the root of the disk on the box, and placed the commands mentioned in the readme into the fun_plug script.
+The readme.txt is handy, it  contains information on getting telnet running with this set. I copied over the binaries to the root of the disk on the box, and placed the commands mentioned in the readme into the fun_plug script.
 
 ## About Telnet
 

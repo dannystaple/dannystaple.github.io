@@ -1,0 +1,71 @@
+<div class="vid-container" data-video-id="Cgovv8jWETM">
+    <script type="application/javascript">
+    var youtube_video_id = $('[data-video-id]').attr('data-video-id');
+    var video_url = "http://youtube.com/watch?v=" + youtube_video_id;
+    var thumbnail_url = "http://img.youtube.com/vi/" + youtube_video_id + "/1.jpg";
+    var iframe_url = "http://www.youtube.com/embed/" + youtube_video_id + "?autoplay=1";
+    var api_url = "https://gdata.youtube.com/feeds/api/videos/" + youtube_video_id + "?v=2&alt=json-in-script&callback=?";
+
+    $(function() {
+      // Get video information and set the title.
+      $.getJSON(api_url, function(data) {
+        $(".info").html("<b><a href='" + video_url + "' target='_blank'>" + data.entry.title.$t + "</a></b>");
+      });
+
+      // Set the thumbnail image for the video.
+      $(".preview img.thumb").attr("src", thumbnail_url);
+
+      // Switch to the iframe when the image is clicked.
+      $(".preview").click(function() {
+        $(this).html("<iframe width='400' height='250' src='" + iframe_url + "' frameborder='0' allowfullscreen></iframe>");
+        $(this).css("float", "none");
+      });
+    });
+    </script>
+    <style type="text/css">
+        .container {
+          background-color: #F7F7F7;
+          border: 1px solid rgba(0, 0, 0, .05);
+          padding: 3px;
+        }
+
+        .preview {
+          position: relative;
+          cursor: pointer;
+          float: left;
+          padding-right: 5px;
+        }
+
+        .play {
+          position: absolute;
+          left: 10px;
+          bottom: 10px;
+        }
+
+        .info-small {
+          text-size: 8pt;
+          color: gray;
+        }
+
+        a {
+          color: #3B5998;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: underline;
+        }
+    </style>
+
+  <div class="vid-preview">
+    <img class="vid-thumb" src=""/>
+    <img class="vid-play" src="https://s-static.ak.fbcdn.net/rsrc.php/v2/yG/r/Gj2ad6O09TZ.png" />
+  </div>
+  <div class="vid-info">
+
+  </div>
+  <div class="vid-info-small">
+    www.youtube.com
+  </div>
+  <div style="clear: both;"></div>
+</div>

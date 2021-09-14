@@ -6,7 +6,7 @@ layout: post
 ---
 {% include JB/setup %}
 
-I will admit - I have been busy of late - very busy indeed. Mostly with system maintenance, and moving house.
+I will admit - I have been busy of late, mostly with system maintenance, and moving house.
 
 # Moving House
 Moving house after getting well dug-in somewhere is a difficult process. We are having to deal with banks and Estate Agents (are search for the new place is almost over). I am also facing the prospect of getting everything moved and packed. Now although we have until may - it is only by seeing the sheer amount of stuff we have that you would appreciate how awkward its going to be.
@@ -18,11 +18,11 @@ I have been ruthlessly throwing stuff away, giving stuff to charity and selling 
 I have also up and moved <http://orionrobots.co.uk> to a new hosting site. We are now hosted by Pipex Webfusion. It has been a little difficult technically but I have no problems with their service. I am still getting to grips with the idea of having the site on a machine that I don't have absolute power over but the ups outweigh the downs.
 
 ## The cons are:
-* I must pay for the service - but the rate is actually very affordable.
+* I must pay for the service - but the rate is affordable.
 * I don't have as much control - but this is something I can deal with.
 * I wont be able to copy over old emails in imap accounts (sorry!) - but they will still be available on serverus.orionrobots.co.uk for those who want them.
 * Due to mysql packet restrictions - I have had to move Steve Hassenplugs movies outside of the site.
-* A couple of days of set-up (we are pretty much done now)
+* A couple of days of set-up
 
 ## The pros:
 * I can turn off the dusty old server and its paraphernalia taking up a substantial part of our lounge - and redistribute or sell its parts.

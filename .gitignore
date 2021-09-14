@@ -8,4 +8,8 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+.idea
+.cache
+*.pyc
 .picasa.ini
+wget.log
