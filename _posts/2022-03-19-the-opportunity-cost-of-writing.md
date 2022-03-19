@@ -9,4 +9,4 @@ However, this comes at a cost. So many small blog posts on thoughts I could have
 
 Writing along with having a family takes up a lot of time, excluding so many other things. I will occasionally write on a whim, and I'm keeping a journal with notes. I have a lot of other stuff to write about beyond robotics, and within robotics beyond the scope of the books. Sometimes the hardest thing about writing (or perhaps any large project) is saying no, or at least "not now" to all the other interesting opportunities that present themselves.
 
-Use {{page.path}} and raise a PR to comment. 
+Use [https://github.com/dannystaple/dannystaple.github.io/{{page.path}}](https://github.com/dannystaple/dannystaple.github.io/{{page.path}}) and raise a PR to comment. 
