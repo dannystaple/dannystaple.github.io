@@ -1,13 +1,13 @@
 ---
 created: 2007-07-14 11:55:30
-description: Silent Computer Upgrade - Part II
+description: Silent Computer Upgrade - Part III
 tags: [pc, upgrade, silent, amd, cpu, turion, sempron, ubuntu, linux, bootdisk, gigabyte, motherboard, freedos]
-title: Silent Computer Upgrade - Part II
+title: Silent Computer Upgrade - Part III
 layout: post
 ---
 {% include JB/setup %}
 
-In the [previous article](/2007/06/13/silent_computer_upgrade), I'd left things on a bit of cliffhanger with a motherboard that no longer booted.
+In the [previous article](/2007/06/13/silent-computer-upgrade-part-ii), I'd left things on a bit of cliffhanger with a motherboard that no longer booted.
 
 After yesterdays disaster, and a day at my day-job worrying slightly about if I had actually managed to flash the motherboard BIOS out of working order, I came home to attempt a very tricky, and potentially risky operation.
   
