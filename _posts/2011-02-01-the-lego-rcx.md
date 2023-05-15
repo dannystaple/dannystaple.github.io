@@ -3,7 +3,7 @@ layout: post
 date: 2011-02-01
 title: The Lego Mindstorms RCX
 tags: [arduino, gadgets, hacking, i2c bus, lego, lego nxt, mindstorms, robots, tech]
-todos:
+todo:
  - update links to orionrobots
  - consider move to lego blog
 ---
