@@ -4,6 +4,8 @@ description: Fighting a battle with Fungus gnats, plaguing my tomatoes
 tags: [plants, growing-food, fungus-gnats, pest-control, garrdening]
 title: My battle with Fungus Gnats
 layout: post
+todo:
+  - convert and link squidoo content
 ---
 - Current location: London, Uk
 - Current mood: accomplished
@@ -14,4 +16,4 @@ Being indoors, there was little in the way of natural predators or population co
 
 I kept a journal on the epic, and had embedded it into a general article about pest control, but decided now that it was enough of a journal to make its own page.
 
-I give you - My War On Fungus Gnats {TODO: Pull over squidoo content}
+I give you - My War On Fungus Gnats
