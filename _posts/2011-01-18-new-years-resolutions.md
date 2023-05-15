@@ -2,6 +2,8 @@
 layout: post
 title: New years resolutions for 2011
 tags: promises, resolutions, year 2011
+todo:
+  - convert and link squidoo content
 ---
 - current mood: Optimistic
 
@@ -14,4 +16,4 @@ These are (in short):
 - Reduce the clutter around me
 - Loose a little bit of weight
 
-I've already gone into some detail on these in My promises To Myself for 2011 {TODO: Squidoo content here}
+I've already gone into some detail on these in My promises To Myself for 2011
